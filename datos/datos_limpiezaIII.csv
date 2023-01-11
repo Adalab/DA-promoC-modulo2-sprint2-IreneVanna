@@ -11,7 +11,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2018.0,south africa,19,White shark,03-Apr-2018,Apr,n,M,white_shark,19.0
 2018.0,usa,25,"Tiger shark, 12'",31-Mar-2018,Mar,n,M,tiger_shark,25.0
 2018.0,australia,10,Wobbegong shark,14-Mar-2018,Mar,n,M,unspecified,10.0
-2018.0,australia,69,3.5 m shark,9-Mar-2018,Mar,n,M,unspecified,27.9
+2018.0,australia,69,3.5 m shark,9-Mar-2018,Mar,n,M,unspecified,28.7
 2018.0,australia,18,1.8 m shark,9-Mar-2018,Mar,n,M,unspecified,18.0
 2018.0,australia,55,"Juvenile white shark,  2.7 to 3.2 m",23-Feb-2018,Feb,n,F,white_shark,55.0
 2018.0,australia,35,"Bull shark, 2 m",15-Feb-2018,Feb,n,M,bull_shark,35.0
@@ -29,7 +29,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2017.0,australia,35,"White shark, 3 to 3.5m ",10-Sep-2017,Sep,n,M,white_shark,35.0
 2017.0,australia,37,"White shark, 3 m",29-Aug-2017,Aug,n,M,white_shark,37.0
 2017.0,spain,11,Shark involvement questionable,26-Aug-2017,Aug,,F,unspecified,11.0
-2017.0,usa,69,"White shark, 5' to 7'",23-Aug-2017,Aug,n,M,white_shark,27.9
+2017.0,usa,69,"White shark, 5' to 7'",23-Aug-2017,Aug,n,M,white_shark,28.7
 2017.0,usa,13,Possibly a juvenile blacktip shark,10-Aug-2017,Aug,n,M,unspecified,13.0
 2017.0,usa,34,4' shark,03-Aug-2017,Aug,n,M,unspecified,34.0
 2017.0,usa,10,A small shark,29-Jul-2017,Jul,,M,unspecified,10.0
@@ -50,7 +50,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2016.0,usa,19,Shark involvement not confirmed,11-Dec-2016,Dec,,M,unspecified,19.0
 2016.0,australia,20,"Wobbegong shark, 2m",06-Dec-2016,Dec,n,M,unspecified,20.0
 2016.0,australia,65,White shark,01-Dec-2016,Dec,n,M,white_shark,65.0
-2016.0,australia,73,"Broadnose sevengill shark, 1.5 m",28-Nov-2016,Nov,n,M,unspecified,27.9
+2016.0,australia,73,"Broadnose sevengill shark, 1.5 m",28-Nov-2016,Nov,n,M,unspecified,28.7
 2016.0,usa,58,Tiger shark,14-Nov-2016,Nov,n,F,tiger_shark,58.0
 2016.0,usa,36, 6' to 8' shark,21-Oct-2016,Oct,n,M,unspecified,36.0
 2016.0,australia,17,"White shark, 3.5 m",26-Sep-2016,Sep,n,M,white_shark,17.0
@@ -79,11 +79,11 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2016.0,australia,12,Wobbegong shark,19-Apr-2016,Apr,n,M,unspecified,12.0
 2016.0,french polynesia,22,"Grey reef shark, 2 m",18-Apr-2016,Apr,,M,grey_shark,22.0
 2016.0,french polynesia,26,"Grey reef shark, 2 m",18-Apr-2016,Apr,n,M,grey_shark,26.0
-2016.0,new caledonia,69,"Tiger shark, 2.5 m",09-Apr-2016,Apr,y,F,tiger_shark,27.9
+2016.0,new caledonia,69,"Tiger shark, 2.5 m",09-Apr-2016,Apr,y,F,tiger_shark,28.7
 2016.0,usa,48,"Tiger shark, 14'",23-Jan-2016,Jan,n,M,tiger_shark,48.0
 2016.0,australia,11,Blacktip shark,05-Jan-2016,Jan,n,M,unspecified,11.0
 2016.0,australia,31,3 m shark,02-Jan-2016,Jan,n,M,unspecified,31.0
-2015.0,usa,71,9' shark,22-Dec-2015,Dec,n,M,unspecified,27.9
+2015.0,usa,71,9' shark,22-Dec-2015,Dec,n,M,unspecified,28.7
 2015.0,australia,43,"Bronze whaler shark, 6'",21-Dec-2015,Dec,n,M,unspecified,43.0
 2015.0,ecuador,55,Galapagos shark,20-Nov-2015,Nov,n,M,unspecified,55.0
 2015.0,australia,20,"Bull shark, 2.8 to 3.1 m",10-Nov-2015,Nov,n,M,bull_shark,20.0
@@ -120,7 +120,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2015.0,usa,38,"White shark, 7'",10-Jul-2015,Jul,n,M,white_shark,38.0
 2015.0,australia,52,White shark,03-Jul-2015,Jul,n,M,white_shark,52.0
 2015.0,australia,32,White shark,02-Jul-2015,Jul,n,M,white_shark,32.0
-2015.0,usa,68,6' to 7' shark,01-Jul-2015,Jul,n,M,unspecified,27.9
+2015.0,usa,68,6' to 7' shark,01-Jul-2015,Jul,n,M,unspecified,28.7
 2015.0,usa,12,4' to 5' shark,30-Jun-2015,Jun,n,M,unspecified,12.0
 2015.0,usa,18,Bull shark,27-Jun-2015,Jun,n,M,bull_shark,18.0
 2015.0,south africa,19,White shark,27-Jun-2015,Jun,n,M,white_shark,19.0
@@ -138,9 +138,9 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2015.0,south africa,29,"White shark, 3.5 m",02-May-2015,May,n,M,white_shark,29.0
 2015.0,usa,63,3- to 4-foot shark,26-Apr-2015,Apr,n,M,unspecified,63.0
 2015.0,australia,26,"White shark, 6 m",25-Apr-2015,Apr,n,M,white_shark,26.0
-2015.0,australia,71,"White shark, 3 m",24-Jun-2015,Jun,n,M,white_shark,27.9
+2015.0,australia,71,"White shark, 3 m",24-Jun-2015,Jun,n,M,white_shark,28.7
 2015.0,reunion,13,Bull shark,12-Apr-2015,Apr,y,M,bull_shark,13.0
-2015.0,usa,70,Bull shark,03-Apr-2015,Apr,n,M,bull_shark,27.9
+2015.0,usa,70,Bull shark,03-Apr-2015,Apr,n,M,bull_shark,28.7
 2015.0,brazil,23,No shark involvement,31-Mar-2015,Mar,,M,unspecified,23.0
 2015.0,usa,58,"Tiger shark, 8 to 12 feet",18-Mar-2015,Mar,n,M,tiger_shark,58.0
 2015.0,french polynesia,9,Blacktip shark,16-Mar-2015,Mar,n,M,unspecified,9.0
@@ -183,7 +183,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2014.0,usa,23,3' shark,01-May-2014,May,n,M,unspecified,23.0
 2014.0,australia,63,3 m to 4 m white shark,03-Apr-2014,Apr,y,F,white_shark,63.0
 2014.0,australia,38,Shark involvement prior to death not confirmed,29-Mar-2014,Mar,,M,unspecified,38.0
-2014.0,south africa,66,2 m shark,22-Mar-2014,Mar,y,M,unspecified,27.9
+2014.0,south africa,66,2 m shark,22-Mar-2014,Mar,y,M,unspecified,28.7
 2014.0,french polynesia,21,Blacktip reef shark ,20-Feb-2014,Feb,n,M,unspecified,21.0
 2014.0,new zealand,28,7-gill shark?,07-Feb-2014,Feb,n,M,unspecified,28.0
 2013.0,new caledonia,37,Reported to involve a bull shark,25-Dec-2013,Dec,n,M,bull_shark,37.0
@@ -201,7 +201,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2013.0,usa,45,"Whitetip reef shark, 4' to 6'",23-Oct-2013,Oct,n,M,white_shark,45.0
 2013.0,usa,25,Tiger shark,20-Oct-2013,Oct,n,M,tiger_shark,25.0
 2013.0,usa,6,Nurse shark?,19-Oct-2013,Oct,n,M,unspecified,6.0
-2013.0,south africa,74,White shark,11-Oct-2013,Oct,y,M,white_shark,27.9
+2013.0,south africa,74,White shark,11-Oct-2013,Oct,y,M,white_shark,28.7
 2013.0,australia,55,White shark,08-Oct-2013,Oct,n,M,white_shark,55.0
 2013.0,usa,45,"White shark, 8' to 10'",06-Oct-2013,Oct,n,M,white_shark,45.0
 2013.0,usa,21,Bull shark, 14-Sep-2013,Sep,n,M,bull_shark,21.0
@@ -228,7 +228,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2013.0,french polynesia,53,Possibly a blacktip reef shark,10-Apr-2013,Apr,n,M,unspecified,53.0
 2013.0,usa,58,4' shark,02-Apr-2013,Apr,n,M,unspecified,58.0
 2013.0,south africa,30,"Raggedtooth shark, 1.5 m",16-Mar-2013,Mar,n,M,unspecified,30.0
-2013.0,jamaica,68,"Tiger shark, 4.8 m",12-Mar-2013,Mar,y,M,tiger_shark,27.9
+2013.0,jamaica,68,"Tiger shark, 4.8 m",12-Mar-2013,Mar,y,M,tiger_shark,28.7
 2013.0,australia,28,"Bronze whaler shark, 2.5m",10-Mar-2013,Mar,n,M,unspecified,28.0
 2013.0,new zealand,46,"White shark, 4m",27-Feb-2013,Feb,y,M,white_shark,46.0
 2013.0,usa,16,"Blacktip shark, 4' to 5'",10-Feb-2013,Feb,n,M,unspecified,16.0
@@ -325,10 +325,10 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2011.0,bahamas,55,Caribbean reef shark,26-Jan-2011,Jan,n,M,unspecified,55.0
 2011.0,australia,7,Shark involvement not confirmed,20-Jan-2011,Jan,,F,unspecified,7.0
 2010.0,usa,16,6' shark,26-Dec-2010,Dec,n,M,unspecified,16.0
-2010.0,egypt,70,"Oceanic whitetip shark, 2.5m ",05-Dec-2010,Dec,y,F,white_shark,27.9
+2010.0,egypt,70,"Oceanic whitetip shark, 2.5m ",05-Dec-2010,Dec,y,F,white_shark,28.7
 2010.0,egypt,54,Mako shark ,01-Dec-2010,Dec,n,M,unspecified,54.0
 2010.0,egypt,46,Mako shark,01-Dec-2010,Dec,n,M,unspecified,46.0
-2010.0,egypt,70,"Oceanic whitetip shark, 2.5m, female",30-Nov-2010,Nov,n,F,white_shark,27.9
+2010.0,egypt,70,"Oceanic whitetip shark, 2.5m, female",30-Nov-2010,Nov,n,F,white_shark,28.7
 2010.0,egypt,48,"Oceanic whitetip shark, 2.5m, female",30-Nov-2010,Nov,n,F,white_shark,48.0
 2010.0,australia,20,White shark,30-Oct-2010,Oct,n,F,white_shark,20.0
 2010.0,usa,30,"Porbeagle shark, 8' ",23-Oct-2010,Oct,n,M,unspecified,30.0
@@ -351,7 +351,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2010.0,vietnam,60,20 to 30kg shark,18-May-2010,May,n,F,unspecified,60.0
 2010.0,usa,10,4' shark,01-May-2010,May,n,F,unspecified,10.0
 2010.0,usa,29,"Lemon shark, 6'",28-Apr-2010,Apr,n,M,lemon_shark,29.0
-2010.0,usa,68,14' shark,19-Apr-2010,Apr,n,M,unspecified,27.9
+2010.0,usa,68,14' shark,19-Apr-2010,Apr,n,M,unspecified,28.7
 2010.0,south africa,35,2 m shark,13-Apr-2010,Apr,n,M,unspecified,35.0
 2010.0,egypt,24,"Oceanic whitetip shark, 6'",04-Apr-2010,Apr,n,M,white_shark,24.0
 2010.0,reunion,34,1.5 m shark, 27-Mar-2010,Mar,n,M,unspecified,34.0
@@ -432,7 +432,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2008.0,mexico,24,Tiger shark,28-Apr-2008,Apr,y,M,tiger_shark,24.0
 2008.0,usa,18,4' shark,28-Apr-2008,Apr,n,M,unspecified,18.0
 2008.0,new caledonia,32,"Bull shark, 1.8m",26-Apr-2008,Apr,n,M,bull_shark,32.0
-2008.0,usa,66,"White shark, 12' to 15'",25-Apr-2008,Apr,y,M,white_shark,27.9
+2008.0,usa,66,"White shark, 12' to 15'",25-Apr-2008,Apr,y,M,white_shark,28.7
 2008.0,mexico,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",18-Apr-2008,Apr,,M,unspecified,32.0
 2008.0,australia,19,Shark involvement not confirmed; thought to be a barracuda bite,17-Apr-2008,Apr,,M,unspecified,19.0
 2008.0,usa,30,1.5' to 2' shark,15-Apr-2008,Apr,n,M,unspecified,30.0
@@ -486,7 +486,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2007.0,usa,21,4' to 5' shark,10-May-2007,May,n,F,unspecified,21.0
 2007.0,australia,45,Shark involvement prior to death was not confirmed,08-May-2007,May,,M,unspecified,45.0
 2007.0,usa,63,"Tiger shark, 14' ",07-May-2007,May,n,F,tiger_shark,63.0
-2007.0,usa,68,6' to 8' shark,07-May-2007,May,n,M,unspecified,27.9
+2007.0,usa,68,6' to 8' shark,07-May-2007,May,n,M,unspecified,28.7
 2007.0,australia,13,"""a small shark""",26-Apr-2007,Apr,n,F,unspecified,13.0
 2007.0,usa,12,blacktip or spinner shark,22-Apr-2007,Apr,n,M,unspecified,12.0
 2007.0,usa,24,3' to 4' shark,20-Apr-2007,Apr,n,M,unspecified,24.0
@@ -558,7 +558,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2005.0,south africa,52,White shark,01-Oct-2005,Oct,n,M,white_shark,52.0
 2005.0,australia,26,14' to 16' white shark,24-Sep-2005,Sep,n,M,white_shark,26.0
 2005.0,australia,44,Bronze whaler shark,23-Sep-2005,Sep,n,M,unspecified,44.0
-2005.0,usa,68,3' to 4' shark,20-Sep-2005,Sep,n,F,unspecified,27.9
+2005.0,usa,68,3' to 4' shark,20-Sep-2005,Sep,n,F,unspecified,28.7
 2005.0,usa,18,Bull shark,05-Sep-2005,Sep,n,F,bull_shark,18.0
 2005.0,australia,40,4 m [13'] white shark,04-Sep-2005,Sep,n,M,white_shark,40.0
 2005.0,australia,23,White shark,24-Aug-2005,Aug,y,M,white_shark,23.0
@@ -588,7 +588,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2004.0,australia,18,4.5 m & 5 m white shark ,16-Dec-2004,Dec,y,M,white_shark,18.0
 2004.0,australia,38,Bull shark,11-Dec-2004,Dec,y,M,bull_shark,38.0
 2004.0,south africa,20,Raggedtooth shark,27-Nov-2004,Nov,n,M,unspecified,20.0
-2004.0,south africa,77,6 m [20'] white shark,15-Nov-2004,Nov,y,F,white_shark,27.9
+2004.0,south africa,77,6 m [20'] white shark,15-Nov-2004,Nov,y,F,white_shark,28.7
 2004.0,usa,38,5.5 m [18'] white shark,11-Nov-2004,Nov,n,F,white_shark,38.0
 2004.0,cuba,40,2.5 m [8.25'] bull shark,31-Oct-2004,Oct,n,M,bull_shark,40.0
 2004.0,south africa,52,2 m [6.75'] white shark,30-Oct-2004,Oct,n,M,white_shark,52.0
@@ -667,7 +667,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2003.0,australia,37,"""a small shark""",15-Feb-2003,Feb,n,M,unspecified,37.0
 2003.0,usa,54,Species unidentified,15-Feb-2003,Feb,n,M,unspecified,54.0
 2003.0,australia,24,Thought to involve a 2 m [6.75'] grey nurse shark,11-Feb-2003,Feb,n,M,grey_shark,24.0
-2003.0,australia,84,Thought to involve a >2 m [6.75'] bull shark,08-Feb-2003,Feb,y,M,bull_shark,27.9
+2003.0,australia,84,Thought to involve a >2 m [6.75'] bull shark,08-Feb-2003,Feb,y,M,bull_shark,28.7
 2003.0,south africa,14,Shark involvement prior to death was not confirmed,17-Jan-2003,Jan,,M,unspecified,14.0
 2002.0,south africa,25,"White shark, 4 m white shark",24-Dec-2002,Dec,n,M,white_shark,25.0
 2002.0,australia,23,Bull shark,16-Dec-2002,Dec,y,M,bull_shark,23.0
@@ -753,7 +753,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2001.0,australia,40,"Bronze whaler shark, 2.5 m [8.25']  k",04-Feb-2001,Feb,n,M,unspecified,40.0
 2000.0,fiji,47,6 m [20'] shark,12-Dec-2000,Dec,y,M,unspecified,47.0
 2000.0,australia,38,"Bronze whaler shark, 2.5 m [8.25'] ",03-Dec-2000,Dec,n,M,unspecified,38.0
-2000.0,usa,73,1.2 m to 1.8 m [4' to 6'] shark,17-Nov-2000,Nov,n,M,unspecified,27.9
+2000.0,usa,73,1.2 m to 1.8 m [4' to 6'] shark,17-Nov-2000,Nov,n,M,unspecified,28.7
 2000.0,australia,52,"White shark, 4.9 m [16'] ",06-Nov-2000,Nov,n,M,white_shark,52.0
 2000.0,australia,49,"White shark, 5 m [16.5'] ",06-Nov-2000,Nov,y,M,white_shark,49.0
 2000.0,usa,27,"White shark, 2.4 m to 3 m [8' to 10'] ",04-Nov-2000,Nov,n,M,white_shark,27.0
@@ -768,7 +768,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 2000.0,usa,40,1.5 m [5'] shark,08-Sep-2000,Sep,n,M,unspecified,40.0
 2000.0,reunion,27,"Tiger shark, 3 m [10'] ",08-Sep-2000,Sep,n,M,tiger_shark,27.0
 2000.0,usa,47,A 2' shark was seen in the area by witnesses,31-Aug-2000,Aug,n,M,unspecified,47.0
-2000.0,usa,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",30-Aug-2000,Aug,y,M,bull_shark,27.9
+2000.0,usa,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",30-Aug-2000,Aug,y,M,bull_shark,28.7
 2000.0,usa,53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",15-Aug-2000,Aug,n,M,tiger_shark,53.0
 2000.0,usa,27,juvenile shark,13-Aug-2000,Aug,n,M,unspecified,27.0
 2000.0,usa,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",12-Aug-2000,Aug,n,F,unspecified,44.0
@@ -916,7 +916,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1993.0,usa,26,3 m [10'] bull shark,26-Oct-1993,Oct,n,F,bull_shark,26.0
 1993.0,usa,34,>6 m [20'] white shark,10-Oct-1993,Oct,n,F,white_shark,34.0
 1993.0,south africa,36,3 m [10'] white shark,26-Sep-1993,Sep,n,M,white_shark,36.0
-1993.0,spain,69,1.2 m [4'] shark,03-Sep-1993,Sep,n,M,unspecified,27.9
+1993.0,spain,69,1.2 m [4'] shark,03-Sep-1993,Sep,n,M,unspecified,28.7
 1993.0,bahamas,51,1.8 m [6'] blacktip shark or Caribbean reef shark,21-Aug-1993,Aug,n,M,unspecified,51.0
 1993.0,usa,19,Bull shark,15-Aug-1993,Aug,n,F,bull_shark,19.0
 1993.0,usa,39,5.5 m to 6 m [18' to 20']  white shark,12-Aug-1993,Aug,n,M,white_shark,39.0
@@ -928,7 +928,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1993.0,usa,60's,6' shark,Jun-1993,Jun,n,F,unspecified,60.0
 1993.0,usa,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",14-Mar-1993,Mar,n,M,tiger_shark,35.0
 1993.0,usa,55,White shark,12-Mar-1993,Mar,n,M,white_shark,55.0
-1993.0,australia,69,"Bronze whaler shark, 1.5 m ",04-Feb 1993,Feb,n,M,unspecified,27.9
+1993.0,australia,69,"Bronze whaler shark, 1.5 m ",04-Feb 1993,Feb,n,M,unspecified,28.7
 1993.0,australia,21,1.5 m shark,05-Jan-1993,Jan,n,M,unspecified,21.0
 1993.0,usa,29,6 m [20'] white shark,02-Jan-1993,Jan,n,M,white_shark,29.0
 1992.0,usa,10,"Tiger shark, 2.4 m [8']",28-Dec-1992,Dec,n,M,tiger_shark,10.0
@@ -1046,7 +1046,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1985.0,usa,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,22-Oct-1985,Oct,n,M,unspecified,46.0
 1985.0,usa,17,Invalid,05-Sep-1985,Sep,,M,unspecified,17.0
 1985.0,usa,11,Shark involvement not confirmed,20-Aug-1985,Aug,,M,unspecified,11.0
-1985.0,usa,67,Shark involvement prior to death not confirmed,17-Aug-1985,Aug,,M,unspecified,27.9
+1985.0,usa,67,Shark involvement prior to death not confirmed,17-Aug-1985,Aug,,M,unspecified,28.7
 1985.0,usa,13,Possibly a small hammerhead shark,25-Jul-1985,Jul,n,F,unspecified,13.0
 1985.0,italy,13,"3 m to 3.6 m  [10' to 11'9""] white shark",Mid Jul-1985 or mid Jul-1986,MidJulJul,n,M,white_shark,13.0
 1985.0,australia,33,6 m [20'] white shark,03-Mar-1985,Mar,y,F,white_shark,33.0
@@ -1058,7 +1058,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1984.0,australia,16,"Tiger shark, 4 m ",30-Nov-1984,Nov,y,M,tiger_shark,16.0
 1984.0,usa,22,Shark involvement prior to death was not confirmed,21-Oct-1984,Oct,,M,unspecified,22.0
 1984.0,usa,23,1.5 m [5'] shark,21-Oct-1984,Oct,n,F,unspecified,23.0
-1984.0,usa,77,Shark involvement not confirmed; officials considered barracua,17-Oct-1984,Oct,,F,unspecified,27.9
+1984.0,usa,77,Shark involvement not confirmed; officials considered barracua,17-Oct-1984,Oct,,F,unspecified,28.7
 1984.0,usa,15,1.2 m [4'] blacktip shark,14-Oct-1984,Oct,n,M,unspecified,15.0
 1984.0,usa,25,3 m to 5 m [10' to 16.5'] white shark,30-Sep-1984,Sep,n,M,white_shark,25.0
 1984.0,usa,16,Hammerhead shark?+O2356,22-Sep-1984,Sep,n,M,unspecified,16.0
@@ -1432,7 +1432,7 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1945.0,iraq,15,Bull shark,1945,,n,M,bull_shark,15.0
 1944.0,south africa,17,"White shark, according to witnesses",22-Jul-144,Jul,y,M,white_shark,17.0
 1943.0,panama,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",23-Sep-1943,Sep,y,M,white_shark,20.0
-1943.0,mexico,68,Invalid,Jul-1943,Jul,,M,unspecified,27.9
+1943.0,mexico,68,Invalid,Jul-1943,Jul,,M,unspecified,28.7
 1942.0,australia,15,Bull shark,26-Dec-1942,Dec,y,F,bull_shark,15.0
 1942.0,south africa,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",01-Nov-1942,Nov,y,M,white_shark,18.0
 1942.0,australia,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",12-Sep-1942,Sep,n,M,tiger_shark,24.0
@@ -1497,171 +1497,171 @@ year,country,age,species,date,month,fatal,sex,main_species,age_numbers
 1906.0,south africa,30,1.8 m to 2.7 m [6' to 9'] shark,20-Jan-1906,Jan,y,M,unspecified,30.0
 1905.0,australia,40,5' shark,26-Mar-1905,Mar,n,M,unspecified,40.0
 1901.0,south africa,29,White shark,30-Jul-1901,Jul,y,M,white_shark,29.0
-1990.4,australia,19,10' to 12' shark,28-Nov-1894,Nov,n,M,unspecified,19.0
-1990.4,australia,21,12' shark,02-Mar-1892,Mar,n,M,unspecified,21.0
-1990.4,australia,12,Bull shark,25-Nov-1880,Nov,y,M,bull_shark,12.0
-1990.4,india,35,Identified as C. gangeticus by Dr. J. Fayrer,13-May-1868,May,y,M,unspecified,35.0
-1990.4,seychelles,,,1800,,y,F,unspecified,
-1990.4,,,,Reported May-28-1797,ReportedMay,y,,unspecified,
-1990.4,england,,,12-Sep-1792,Sep,y,M,unspecified,
-1990.4,australia,,,1791,,y,F,unspecified,
-1990.4,australia,,,10-May-1788,May,n,,unspecified,
-1990.4,,,,05-Jul-1787,Jul,y,M,unspecified,
-1990.4,barbados,,,Reported 10-Aug-1786,ReportedAug,y,M,unspecified,
-1990.4,england,,Tiger shark?,Reported 26-Sep-1785,ReportedSep,y,M,tiger_shark,
-1990.4,jamaica,,,12-Dec-1784,Dec,y,M,unspecified,
-1990.4,martinique,,,02-Mar-1783,Mar,y,M,unspecified,
-1990.4,usa,,,08-Aug-1780,Aug,y,M,unspecified,
-1990.4,usa,young,,1779,,y,M,unspecified,
-1990.4,guinea,,,Reported 1776,Reported,y,M,unspecified,
-1990.4,greenland,,White sharks,1776,,y,,white_shark,
-1990.4,usa,,,Reported 12-Jul-1771,ReportedJul,y,M,unspecified,
-1990.4,france,,Description of shark does not ring true,1767,,,M,unspecified,
-1990.4,spain,,,1764,,y,M,unspecified,
-1990.4,mediterranean sea,,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",1758,,n,M,unspecified,
-1990.4,jamaica,,,Reported 27-Oct-1753,ReportedOct,y,M,unspecified,
-1990.4,usa,,,27-Jul-1751,Jul,y,M,unspecified,
-1990.4,cuba,14,,1749,,n,M,unspecified,14.0
-1990.4,sweden,,,1755,,,M,unspecified,
-1990.4,panama,,,1748,,y,M,unspecified,
-1990.4,,,,17-Dec-1742,Dec,y,M,unspecified,
-1990.4,italy,,,Reported 06-Apr-1738,ReportedApr,y,M,unspecified,
-1990.4,iceland,,Shark involvement prior to death unconfirmed,1733,,,,unspecified,
-1990.4,roatan,,,1723,,,M,unspecified,
-1990.4,italy,,"White shark, 1600-lb female ",June 1721,June,y,M,white_shark,
-1990.4,barbados,19,,26-Mar-1703,Mar,n,M,unspecified,19.0
-1990.4,france,,,1700s,,y,M,unspecified,
-1990.4,france,,White shark,1700s,,n,M,white_shark,
-1990.4,barbados,,,1700s,,y,M,unspecified,
-1990.4,guinea,,Questionable,Late 1600s Reported 1728,LateReported,,M,unspecified,
-1990.4,,,,Reported 1638,Reported,,M,unspecified,
-1990.4,india,,,Reported 1637,Reported,,,unspecified,
-1990.4,india,,,Reported 1617,Reported,,,unspecified,
-1990.4,usa,,,1642,,y,M,unspecified,
-1990.4,india,,,1595,,,M,unspecified,
-1990.4,between portugal & india,,,Letter dated 10-Jan-1580,LetterJan,y,M,unspecified,
-1990.4,,,,1555,,,M,unspecified,
-1990.4,france,,Possibly white sharks,Ca. 1554,Ca,,M,white_shark,
-1990.4,venezuela,,,Ca. 1543,Ca,y,M,unspecified,
-1990.4,mexico,,,Circa 500 A.D.,Circa,n,M,unspecified,
-1990.4,,,,77  A.D.,,y,M,unspecified,
-1990.4,australia,,,Ca. 5 A.D.,Ca,n,M,unspecified,
-1990.4,,,,Ca. 214 B.C.,Ca,y,M,unspecified,
-1990.4,greece,,,Ca. 336.B.C..,Ca,y,M,unspecified,
-1990.4,greece,,,493 B.C.,,y,M,unspecified,
-1990.4,italy,,,Ca. 725 B.C.,Ca,y,M,unspecified,
-1990.4,canada,,,Before 1939,Before,n,M,unspecified,
-1990.4,kenya,,,1990 or 1991,,n,M,unspecified,
-1990.4,kenya,,,Before 2016,Before,y,M,unspecified,
-1990.4,panama,20,,Before Oct-2009,BeforeOct,y,M,unspecified,20.0
-1990.4,uruguay,,,Before 1934,Before,n,,unspecified,
-1990.4,uruguay,,,Before 1934,Before,y,M,unspecified,
-1990.4,usa,,,2009?,,n,M,unspecified,
-1990.4,papua new guinea,,,Before 1930,Before,y,M,unspecified,
-1990.4,australia,15,,1880-1899,,n,F,unspecified,15.0
-1990.4,australia,,,Before 1909,Before,y,M,unspecified,
-1990.4,usa,," Galapagos shark, 6'",Before 2012,Before,n,M,unspecified,
-1990.4,bermuda,,,Before 1916,Before,y,M,unspecified,
-1990.4,greece,,,Between   1951-1963,Between,y,F,unspecified,
-1990.4,usa,,Basking shark,Before 1908,Before,y,M,unspecified,
-1990.4,india,,,Before 1900,Before,n,M,unspecified,
-1990.4,lebanon,,,Before 1876,Before,n,M,unspecified,
-1990.4,spain,,,Before 2012,Before,n,,unspecified,
-1990.4,sudan,,,Before 2011,Before,n,F,unspecified,
-1990.4,,,,Before 2011,Before,n,M,unspecified,
-1990.4,usa,21,"Blacktip shark, 5'",Before 2009,Before,n,F,unspecified,21.0
-1990.4,usa,,,Beforer 1994,Beforer,n,M,unspecified,
-1990.4,djibouti,,,Before 1963,Before,y,,unspecified,
-1990.4,libya,,,1896-1913,,y,M,unspecified,
-1990.4,australia,,,Before 1936,Before,n,M,unspecified,
-1990.4,new zealand,,,Before 08-Jun-1912,BeforeJun,y,M,unspecified,
-1990.4,,,,Before 2012,Before,n,F,unspecified,
-1990.4,vietnam,,,Before 1911,Before,n,M,unspecified,
-1990.4,sri lanka,,,Before 1901,Before,n,M,unspecified,
-1990.4,venezuela,,said to involve 2.5 m hammerhead sharks,"No date, late 1960s",No,y,M,unspecified,
-1990.4,usa,,,Before 2006,Before,n,M,unspecified,
-1990.4,greece,,,Before 2003,Before,y,M,unspecified,
-1990.4,mozambique,,Whale shark,Before 2004,Before,n,,unspecified,
-1990.4,south africa,,,Before 1962,Before,y,M,unspecified,
-1990.4,australia,,Tiger shark,1950s,,n,M,tiger_shark,
-1990.4,bahrein,,Tiger shark,"No date, Before 1963",NoBefore,y,M,tiger_shark,
-1990.4,bahamas,,1.8 m [6'] shark,2003?,,n,M,unspecified,
-1990.4,usa,,,No date,No,n,M,unspecified,
-1990.4,reunion,,,No date,No,n,M,unspecified,
-1990.4,solomon islands,,,Before Feb-1998,BeforeFeb,n,M,unspecified,
-1990.4,korea,,,"No date, Before May-1996",NoBeforeMay,y,F,unspecified,
-1990.4,french polynesia,,,"No date, Before Mar-1995",NoBeforeMar,n,M,unspecified,
-1990.4,sudan,,Silvertip shark,Before 1996,Before,n,M,unspecified,
-1990.4,vanuatu,,,"No date, Before Aug-1989",NoBeforeAug,y,F,unspecified,
-1990.4,vanuatu,,A large hammerhead shark,"No date, Before Aug-1987",NoBeforeAug,n,M,unspecified,
-1990.4,iran,,Bull shark,"No date, Before 1987",NoBefore,n,M,bull_shark,
-1990.4,usa,19,"Nurse shark, 2.1 m [7'] ","No date, Before  1975",NoBefore,n,M,unspecified,19.0
-1990.4,papua new guinea,,Questionable,"No date, Before 1975",NoBefore,y,M,unspecified,
-1990.4,red sea?,,,"No date, Before 1969",NoBefore,n,F,unspecified,
-1990.4,south africa,,,"No date, Before 3-Jan-1967",NoBeforeJan,y,M,unspecified,
-1990.4,usa,,"Shovelnose guitarfish, adult male ","No date, Before 1963",NoBefore,n,M,unspecified,
-1990.4,greece,,,"No date, Before 8-May-1965",NoBeforeMay,y,F,unspecified,
-1990.4,usa,,Invalid,"No date, Before 1963",NoBefore,,M,unspecified,
-1990.4,usa,,,"No date, Before 1902",NoBefore,y,M,unspecified,
-1990.4,mediterranean sea,,,"No date, Before 1902",NoBefore,y,M,unspecified,
-1990.4,australia,,0.9 m [3'] shark,"No date, Before 1963",NoBefore,n,M,unspecified,
-1990.4,australia,,,"No date, After August 1926 and before 1936",NoAfterAugust,n,M,unspecified,
-1990.4,singapore,,,"No date, Before 1963",NoBefore,n,,unspecified,
-1990.4,fiji,27,1.8 m [6'] shark,Before 1962,Before,n,M,unspecified,27.0
-1990.4,mozambique,36,"""A pack of sharks""",Before 1962,Before,n,M,unspecified,36.0
-1990.4,seychelles,,Tiger shark,Before 1961,Before,y,M,tiger_shark,
-1990.4,iraq,25,,1960s,,n,M,unspecified,25.0
-1990.4,iraq,6,Bull shark,1960s,,n,M,bull_shark,6.0
-1990.4,iraq,16,Bull shark,1960s,,n,M,bull_shark,16.0
-1990.4,bahamas,,"White shark, 7' to 8'",Before 1960,Before,n,M,white_shark,
-1990.4,usa,,"White shark, 1,900-lb ",Before  19-Jun-1959,BeforeJun,n,F,white_shark,
-1990.4,bermuda,,,Before  24 Apr-1959,BeforeApr,n,M,unspecified,
-1990.4,fiji,,,Before  1958,Before,n,F,unspecified,
-1990.4,madagascar,,,Before  1958,Before,y,M,unspecified,
-1990.4,usa,,,Before 1958,Before,n,M,unspecified,
-1990.4,bahamas,,"Nurse shark, 2.1 m [7']",Before 1958,Before,n,M,unspecified,
-1990.4,indonesia,,,Before 1958,Before,y,M,unspecified,
-1990.4,india,,,Before 1958,Before,y,M,unspecified,
-1990.4,nicaragua,,"Bull shark caught, leg recovered & buried beside the man's body",Before 1957,Before,y,M,bull_shark,
-1990.4,cuba,50,,Before 1957,Before,y,M,unspecified,50.0
-1990.4,marshall islands,,,Before 1956,Before,n,M,unspecified,
-1990.4,kiribati,,,Before 1956,Before,n,M,unspecified,
-1990.4,north pacific ocean,,,Before Mar-1956,BeforeMar,n,M,unspecified,
-1990.4,kiribati,,,Before 1952,Before,y,M,unspecified,
-1990.4,,,1.2 m [4'] shark,1941-1945,,y,,unspecified,
-1990.4,solomon islands,,,"""During the war"" 1943-1945",During,n,M,unspecified,
-1990.4,australia,,,"""Before the war""",Before,n,M,unspecified,
-1990.4,iran,,,"Said to be 1941-1945, more likely 1945",Said,y,M,unspecified,
-1990.4,iran,,,1941-1945,,y,M,unspecified,
-1990.4,iraq,13 or 14,Bull shark,1941-1942,,y,M,bull_shark,13.0
-1990.4,saudi arabia,,"""a black-tipped shark""",1940 - 1950,,y,M,unspecified,
-1990.4,saudi arabia,,6' shark,1940 - 1950,,n,M,unspecified,
-1990.4,saudi arabia,,,1940 - 1950,,n,M,unspecified,
-1990.4,pacific ocean,,,1940-1946,,y,M,unspecified,
-1990.4,burma,,,Before 1905,Before,n,M,unspecified,
-1990.4,papua new guinea,,,World War II,WorldWarII,n,M,unspecified,
-1990.4,burma,,,Before 1905,Before,y,M,unspecified,
-1990.4,italy,,White shark,A few years before 1938,,n,M,white_shark,
-1990.4,greece,,,No date,No,n,M,unspecified,
-1990.4,belize,16,12' tiger shark,Early 1930s,Early,y,M,tiger_shark,16.0
-1990.4,australia,,,Before 1927,Before,,M,unspecified,
-1990.4,reunion,,,Between 1918 & 1939,Between,y,,unspecified,
-1990.4,south africa,,,No date,No,n,F,unspecified,
-1990.4,australia,,,No date,No,n,M,unspecified,
-1990.4,south africa,,,No date,No,y,M,unspecified,
-1990.4,australia,,,1920 -1923,,y,M,unspecified,
-1990.4,usa,,,Before 1921,Before,n,M,unspecified,
-1990.4,south africa,,,Before 1921,Before,y,M,unspecified,
-1990.4,fiji,,,Before 1917,Before,y,,unspecified,
-1990.4,usa,,,Before 17-Jul-1916,BeforeJul,n,M,unspecified,
-1990.4,south africa,,,No date (3 days after preceding incident) & prior to 19-Jul-1913,NoJul,y,M,unspecified,
-1990.4,south africa,,,Before 19-Jul-1913,BeforeJul,y,M,unspecified,
-1990.4,asia?,,,Before 1911,Before,n,M,unspecified,
-1990.4,usa,,,Circa 1862,Circa,n,F,unspecified,
-1990.4,australia,,Blue pointer,Before 1906,Before,y,M,unspecified,
-1990.4,australia,,Blue pointers,Before 1906,Before,y,M,unspecified,
-1990.4,australia,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,Before 1906,Before,y,M,grey_shark,
-1990.4,australia,,,Before 1903,Before,y,M,unspecified,
-1990.4,usa,,,1900-1905,,y,M,unspecified,
-1990.4,panama,,,1883-1889,,y,M,unspecified,
-1990.4,ceylon (sri lanka),15,,1845-1853,,y,M,unspecified,15.0
+1839.3,australia,19,10' to 12' shark,28-Nov-1894,Nov,n,M,unspecified,19.0
+1839.3,australia,21,12' shark,02-Mar-1892,Mar,n,M,unspecified,21.0
+1839.3,australia,12,Bull shark,25-Nov-1880,Nov,y,M,bull_shark,12.0
+1839.3,india,35,Identified as C. gangeticus by Dr. J. Fayrer,13-May-1868,May,y,M,unspecified,35.0
+1839.3,seychelles,,,1800,,y,F,unspecified,
+1839.3,,,,Reported May-28-1797,ReportedMay,y,,unspecified,
+1839.3,england,,,12-Sep-1792,Sep,y,M,unspecified,
+1839.3,australia,,,1791,,y,F,unspecified,
+1839.3,australia,,,10-May-1788,May,n,,unspecified,
+1839.3,,,,05-Jul-1787,Jul,y,M,unspecified,
+1839.3,barbados,,,Reported 10-Aug-1786,ReportedAug,y,M,unspecified,
+1839.3,england,,Tiger shark?,Reported 26-Sep-1785,ReportedSep,y,M,tiger_shark,
+1839.3,jamaica,,,12-Dec-1784,Dec,y,M,unspecified,
+1839.3,martinique,,,02-Mar-1783,Mar,y,M,unspecified,
+1839.3,usa,,,08-Aug-1780,Aug,y,M,unspecified,
+1839.3,usa,young,,1779,,y,M,unspecified,
+1839.3,guinea,,,Reported 1776,Reported,y,M,unspecified,
+1839.3,greenland,,White sharks,1776,,y,,white_shark,
+1839.3,usa,,,Reported 12-Jul-1771,ReportedJul,y,M,unspecified,
+1839.3,france,,Description of shark does not ring true,1767,,,M,unspecified,
+1839.3,spain,,,1764,,y,M,unspecified,
+1839.3,mediterranean sea,,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",1758,,n,M,unspecified,
+1839.3,jamaica,,,Reported 27-Oct-1753,ReportedOct,y,M,unspecified,
+1839.3,usa,,,27-Jul-1751,Jul,y,M,unspecified,
+1839.3,cuba,14,,1749,,n,M,unspecified,14.0
+1839.3,sweden,,,1755,,,M,unspecified,
+1839.3,panama,,,1748,,y,M,unspecified,
+1839.3,,,,17-Dec-1742,Dec,y,M,unspecified,
+1839.3,italy,,,Reported 06-Apr-1738,ReportedApr,y,M,unspecified,
+1839.3,iceland,,Shark involvement prior to death unconfirmed,1733,,,,unspecified,
+1839.3,roatan,,,1723,,,M,unspecified,
+1839.3,italy,,"White shark, 1600-lb female ",June 1721,June,y,M,white_shark,
+1839.3,barbados,19,,26-Mar-1703,Mar,n,M,unspecified,19.0
+1839.3,france,,,1700s,,y,M,unspecified,
+1839.3,france,,White shark,1700s,,n,M,white_shark,
+1839.3,barbados,,,1700s,,y,M,unspecified,
+1839.3,guinea,,Questionable,Late 1600s Reported 1728,LateReported,,M,unspecified,
+1839.3,,,,Reported 1638,Reported,,M,unspecified,
+1839.3,india,,,Reported 1637,Reported,,,unspecified,
+1839.3,india,,,Reported 1617,Reported,,,unspecified,
+1839.3,usa,,,1642,,y,M,unspecified,
+1839.3,india,,,1595,,,M,unspecified,
+1839.3,between portugal & india,,,Letter dated 10-Jan-1580,LetterJan,y,M,unspecified,
+1839.3,,,,1555,,,M,unspecified,
+1839.3,france,,Possibly white sharks,Ca. 1554,Ca,,M,white_shark,
+1839.3,venezuela,,,Ca. 1543,Ca,y,M,unspecified,
+1839.3,mexico,,,Circa 500 A.D.,Circa,n,M,unspecified,
+1839.3,,,,77  A.D.,,y,M,unspecified,
+1839.3,australia,,,Ca. 5 A.D.,Ca,n,M,unspecified,
+1839.3,,,,Ca. 214 B.C.,Ca,y,M,unspecified,
+1839.3,greece,,,Ca. 336.B.C..,Ca,y,M,unspecified,
+1839.3,greece,,,493 B.C.,,y,M,unspecified,
+1839.3,italy,,,Ca. 725 B.C.,Ca,y,M,unspecified,
+1839.3,canada,,,Before 1939,Before,n,M,unspecified,
+1839.3,kenya,,,1990 or 1991,,n,M,unspecified,
+1839.3,kenya,,,Before 2016,Before,y,M,unspecified,
+1839.3,panama,20,,Before Oct-2009,BeforeOct,y,M,unspecified,20.0
+1839.3,uruguay,,,Before 1934,Before,n,,unspecified,
+1839.3,uruguay,,,Before 1934,Before,y,M,unspecified,
+1839.3,usa,,,2009?,,n,M,unspecified,
+1839.3,papua new guinea,,,Before 1930,Before,y,M,unspecified,
+1839.3,australia,15,,1880-1899,,n,F,unspecified,15.0
+1839.3,australia,,,Before 1909,Before,y,M,unspecified,
+1839.3,usa,," Galapagos shark, 6'",Before 2012,Before,n,M,unspecified,
+1839.3,bermuda,,,Before 1916,Before,y,M,unspecified,
+1839.3,greece,,,Between   1951-1963,Between,y,F,unspecified,
+1839.3,usa,,Basking shark,Before 1908,Before,y,M,unspecified,
+1839.3,india,,,Before 1900,Before,n,M,unspecified,
+1839.3,lebanon,,,Before 1876,Before,n,M,unspecified,
+1839.3,spain,,,Before 2012,Before,n,,unspecified,
+1839.3,sudan,,,Before 2011,Before,n,F,unspecified,
+1839.3,,,,Before 2011,Before,n,M,unspecified,
+1839.3,usa,21,"Blacktip shark, 5'",Before 2009,Before,n,F,unspecified,21.0
+1839.3,usa,,,Beforer 1994,Beforer,n,M,unspecified,
+1839.3,djibouti,,,Before 1963,Before,y,,unspecified,
+1839.3,libya,,,1896-1913,,y,M,unspecified,
+1839.3,australia,,,Before 1936,Before,n,M,unspecified,
+1839.3,new zealand,,,Before 08-Jun-1912,BeforeJun,y,M,unspecified,
+1839.3,,,,Before 2012,Before,n,F,unspecified,
+1839.3,vietnam,,,Before 1911,Before,n,M,unspecified,
+1839.3,sri lanka,,,Before 1901,Before,n,M,unspecified,
+1839.3,venezuela,,said to involve 2.5 m hammerhead sharks,"No date, late 1960s",No,y,M,unspecified,
+1839.3,usa,,,Before 2006,Before,n,M,unspecified,
+1839.3,greece,,,Before 2003,Before,y,M,unspecified,
+1839.3,mozambique,,Whale shark,Before 2004,Before,n,,unspecified,
+1839.3,south africa,,,Before 1962,Before,y,M,unspecified,
+1839.3,australia,,Tiger shark,1950s,,n,M,tiger_shark,
+1839.3,bahrein,,Tiger shark,"No date, Before 1963",NoBefore,y,M,tiger_shark,
+1839.3,bahamas,,1.8 m [6'] shark,2003?,,n,M,unspecified,
+1839.3,usa,,,No date,No,n,M,unspecified,
+1839.3,reunion,,,No date,No,n,M,unspecified,
+1839.3,solomon islands,,,Before Feb-1998,BeforeFeb,n,M,unspecified,
+1839.3,korea,,,"No date, Before May-1996",NoBeforeMay,y,F,unspecified,
+1839.3,french polynesia,,,"No date, Before Mar-1995",NoBeforeMar,n,M,unspecified,
+1839.3,sudan,,Silvertip shark,Before 1996,Before,n,M,unspecified,
+1839.3,vanuatu,,,"No date, Before Aug-1989",NoBeforeAug,y,F,unspecified,
+1839.3,vanuatu,,A large hammerhead shark,"No date, Before Aug-1987",NoBeforeAug,n,M,unspecified,
+1839.3,iran,,Bull shark,"No date, Before 1987",NoBefore,n,M,bull_shark,
+1839.3,usa,19,"Nurse shark, 2.1 m [7'] ","No date, Before  1975",NoBefore,n,M,unspecified,19.0
+1839.3,papua new guinea,,Questionable,"No date, Before 1975",NoBefore,y,M,unspecified,
+1839.3,red sea?,,,"No date, Before 1969",NoBefore,n,F,unspecified,
+1839.3,south africa,,,"No date, Before 3-Jan-1967",NoBeforeJan,y,M,unspecified,
+1839.3,usa,,"Shovelnose guitarfish, adult male ","No date, Before 1963",NoBefore,n,M,unspecified,
+1839.3,greece,,,"No date, Before 8-May-1965",NoBeforeMay,y,F,unspecified,
+1839.3,usa,,Invalid,"No date, Before 1963",NoBefore,,M,unspecified,
+1839.3,usa,,,"No date, Before 1902",NoBefore,y,M,unspecified,
+1839.3,mediterranean sea,,,"No date, Before 1902",NoBefore,y,M,unspecified,
+1839.3,australia,,0.9 m [3'] shark,"No date, Before 1963",NoBefore,n,M,unspecified,
+1839.3,australia,,,"No date, After August 1926 and before 1936",NoAfterAugust,n,M,unspecified,
+1839.3,singapore,,,"No date, Before 1963",NoBefore,n,,unspecified,
+1839.3,fiji,27,1.8 m [6'] shark,Before 1962,Before,n,M,unspecified,27.0
+1839.3,mozambique,36,"""A pack of sharks""",Before 1962,Before,n,M,unspecified,36.0
+1839.3,seychelles,,Tiger shark,Before 1961,Before,y,M,tiger_shark,
+1839.3,iraq,25,,1960s,,n,M,unspecified,25.0
+1839.3,iraq,6,Bull shark,1960s,,n,M,bull_shark,6.0
+1839.3,iraq,16,Bull shark,1960s,,n,M,bull_shark,16.0
+1839.3,bahamas,,"White shark, 7' to 8'",Before 1960,Before,n,M,white_shark,
+1839.3,usa,,"White shark, 1,900-lb ",Before  19-Jun-1959,BeforeJun,n,F,white_shark,
+1839.3,bermuda,,,Before  24 Apr-1959,BeforeApr,n,M,unspecified,
+1839.3,fiji,,,Before  1958,Before,n,F,unspecified,
+1839.3,madagascar,,,Before  1958,Before,y,M,unspecified,
+1839.3,usa,,,Before 1958,Before,n,M,unspecified,
+1839.3,bahamas,,"Nurse shark, 2.1 m [7']",Before 1958,Before,n,M,unspecified,
+1839.3,indonesia,,,Before 1958,Before,y,M,unspecified,
+1839.3,india,,,Before 1958,Before,y,M,unspecified,
+1839.3,nicaragua,,"Bull shark caught, leg recovered & buried beside the man's body",Before 1957,Before,y,M,bull_shark,
+1839.3,cuba,50,,Before 1957,Before,y,M,unspecified,50.0
+1839.3,marshall islands,,,Before 1956,Before,n,M,unspecified,
+1839.3,kiribati,,,Before 1956,Before,n,M,unspecified,
+1839.3,north pacific ocean,,,Before Mar-1956,BeforeMar,n,M,unspecified,
+1839.3,kiribati,,,Before 1952,Before,y,M,unspecified,
+1839.3,,,1.2 m [4'] shark,1941-1945,,y,,unspecified,
+1839.3,solomon islands,,,"""During the war"" 1943-1945",During,n,M,unspecified,
+1839.3,australia,,,"""Before the war""",Before,n,M,unspecified,
+1839.3,iran,,,"Said to be 1941-1945, more likely 1945",Said,y,M,unspecified,
+1839.3,iran,,,1941-1945,,y,M,unspecified,
+1839.3,iraq,13 or 14,Bull shark,1941-1942,,y,M,bull_shark,13.0
+1839.3,saudi arabia,,"""a black-tipped shark""",1940 - 1950,,y,M,unspecified,
+1839.3,saudi arabia,,6' shark,1940 - 1950,,n,M,unspecified,
+1839.3,saudi arabia,,,1940 - 1950,,n,M,unspecified,
+1839.3,pacific ocean,,,1940-1946,,y,M,unspecified,
+1839.3,burma,,,Before 1905,Before,n,M,unspecified,
+1839.3,papua new guinea,,,World War II,WorldWarII,n,M,unspecified,
+1839.3,burma,,,Before 1905,Before,y,M,unspecified,
+1839.3,italy,,White shark,A few years before 1938,,n,M,white_shark,
+1839.3,greece,,,No date,No,n,M,unspecified,
+1839.3,belize,16,12' tiger shark,Early 1930s,Early,y,M,tiger_shark,16.0
+1839.3,australia,,,Before 1927,Before,,M,unspecified,
+1839.3,reunion,,,Between 1918 & 1939,Between,y,,unspecified,
+1839.3,south africa,,,No date,No,n,F,unspecified,
+1839.3,australia,,,No date,No,n,M,unspecified,
+1839.3,south africa,,,No date,No,y,M,unspecified,
+1839.3,australia,,,1920 -1923,,y,M,unspecified,
+1839.3,usa,,,Before 1921,Before,n,M,unspecified,
+1839.3,south africa,,,Before 1921,Before,y,M,unspecified,
+1839.3,fiji,,,Before 1917,Before,y,,unspecified,
+1839.3,usa,,,Before 17-Jul-1916,BeforeJul,n,M,unspecified,
+1839.3,south africa,,,No date (3 days after preceding incident) & prior to 19-Jul-1913,NoJul,y,M,unspecified,
+1839.3,south africa,,,Before 19-Jul-1913,BeforeJul,y,M,unspecified,
+1839.3,asia?,,,Before 1911,Before,n,M,unspecified,
+1839.3,usa,,,Circa 1862,Circa,n,F,unspecified,
+1839.3,australia,,Blue pointer,Before 1906,Before,y,M,unspecified,
+1839.3,australia,,Blue pointers,Before 1906,Before,y,M,unspecified,
+1839.3,australia,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,Before 1906,Before,y,M,grey_shark,
+1839.3,australia,,,Before 1903,Before,y,M,unspecified,
+1839.3,usa,,,1900-1905,,y,M,unspecified,
+1839.3,panama,,,1883-1889,,y,M,unspecified,
+1839.3,ceylon (sri lanka),15,,1845-1853,,y,M,unspecified,15.0
