@@ -1,9 +1,9 @@
 # DA-promoC-modulo2-sprint2-IreneVanna
 
-Tercero Sprint del Bootcamp de Adalab,Analistas de Datos:
-Desde el
-Irene Powers
-Vanna Lozito
+Tercero Sprint del Bootcamp de Adalab, Analistas de Datos:
+
+Desde el 2 de Enero hasta el 12 de Enero 2023
+Irene Powers y Vanna Lozito
 
     Hipótesis 
     Las hipótesis que os planteamos son:
@@ -29,13 +29,16 @@ Vanna Lozito
 
 
 Bibliotecas utilizadas:
-Numpy Scipy Pandas Matplotlib Seaborn
+Ast, InteractiveShell, Matplotlib, Mysql.connector, Numpy, Pandas, re, requests, Seaborn, Sidetable, Sklearn, Warnings.
 
-Estructura repositorio:
-Hay 4 carpetas:
+Estructura repositorio
+
+Hay cuatro carpetas:
 
 datos:
-Se puedene encontrar todos los ficheros que hemos ido utilizando.
+Se puedene encontrar todos los ficheros que hemos ido utilizando y guardando a lo largo de las dos semanas.
+La serie de datos_limpiezas están categorizado con los numeros latinos de orden creciente. 
+El ultimo es el fichero donde hemos acabado los pasos de limpiezas requeridos.
 
 EDA:
 EDA-I, EDA-II y EDA-III.
@@ -48,6 +51,7 @@ Los ejercicios de esta carpeta se enfocan sobre la eliminación de los duplicado
 unificar los nombres de los valores, convertir valores *floats* a *integer*.
 
 ETL:
+En estos ultimos ficheros desarollamos las tres fases de una ETL, *Extract*, *Transform*, *Load*.
 
 
 
