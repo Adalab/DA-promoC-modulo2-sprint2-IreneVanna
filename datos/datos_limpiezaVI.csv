@@ -1,0 +1,1667 @@
+,year,country,month,fatal,sex,main_species,age_numbers,age_numbers_mean,sex_moda
+0,2018.0,usa,Jun,n,F,white_shark,57.0,57.0,F
+1,2018.0,brazil,Jun,y,M,tiger_shark,18.0,18.0,M
+2,2018.0,usa,May,n,M,bull_shark,15.0,15.0,M
+3,2018.0,australia,May,n,M,grey_shark,32.0,32.0,M
+4,2018.0,england,May,n,M,unspecified,21.0,21.0,M
+5,2018.0,costa rica,Apr,n,M,tiger_shark,30.0,30.0,M
+6,2018.0,australia,Apr,n,M,unspecified,60.0,60.0,M
+7,2018.0,maldives,Apr,n,M,tiger_shark,32.0,32.0,M
+8,2018.0,south africa,Apr,n,M,white_shark,33.0,33.0,M
+9,2018.0,south africa,Apr,n,M,white_shark,19.0,19.0,M
+10,2018.0,usa,Mar,n,M,tiger_shark,25.0,25.0,M
+11,2018.0,australia,Mar,n,M,unspecified,10.0,10.0,M
+12,2018.0,australia,Mar,n,M,unspecified,27.9,27.9,M
+13,2018.0,australia,Mar,n,M,unspecified,18.0,18.0,M
+14,2018.0,australia,Feb,n,F,white_shark,55.0,55.0,F
+15,2018.0,australia,Feb,n,M,bull_shark,35.0,35.0,M
+16,2018.0,brazil,Jan,n,M,unspecified,20.0,20.0,M
+17,2017.0,usa,Dec,n,F,tiger_shark,54.0,54.0,F
+18,2017.0,usa,Nov,n,M,white_shark,25.0,25.0,M
+19,2017.0,australia,Nov,n,M,unspecified,25.0,25.0,M
+20,2017.0,cuba,Nov,y,M,tiger_shark,22.0,22.0,M
+21,2017.0,australia,Oct,n,M,unspecified,31.0,31.0,M
+22,2017.0,australia,Oct,n,F,white_shark,15.0,15.0,F
+23,2017.0,usa,Oct,n,M,tiger_shark,54.0,54.0,M
+24,2017.0,usa,Oct,n,F,unspecified,40.0,40.0,F
+25,2017.0,usa,Sep,unknow,M,unspecified,33.0,33.0,M
+26,2017.0,usa,Sep,n,M,unspecified,18.0,18.0,M
+27,2017.0,australia,Sep,n,M,white_shark,35.0,35.0,M
+28,2017.0,australia,Aug,n,M,white_shark,37.0,37.0,M
+29,2017.0,spain,Aug,unknow,F,unspecified,11.0,11.0,F
+30,2017.0,usa,Aug,n,M,white_shark,27.9,27.9,M
+31,2017.0,usa,Aug,n,M,unspecified,13.0,13.0,M
+32,2017.0,usa,Aug,n,M,unspecified,34.0,34.0,M
+33,2017.0,usa,Jul,unknow,M,unspecified,10.0,10.0,M
+34,2017.0,usa,Jul,n,M,white_shark,40.0,40.0,M
+35,2017.0,usa,Jul,n,M,white_shark,50.0,50.0,M
+36,2017.0,usa,Jul,n,M,bull_shark,46.0,46.0,M
+37,2017.0,south africa,Jul,n,F,white_shark,13.0,13.0,F
+38,2017.0,australia,Jun,n,M,white_shark,48.0,48.0,M
+39,2017.0,bahamas,Jun,n,F,tiger_shark,32.0,32.0,F
+40,2017.0,usa,May,unknow,F,unspecified,18.0,18.0,F
+41,2017.0,australia,Apr,y,F,white_shark,17.0,17.0,F
+42,2017.0,usa,Apr,n,M,tiger_shark,28.0,28.0,M
+43,2017.0,usa,Apr,n,F,bull_shark,17.0,17.0,F
+44,2017.0,australia,Jan,n,M,bull_shark,55.0,55.0,M
+45,2017.0,indonesia,Jan,n,M,bull_shark,48.0,48.0,M
+46,2017.0,australia,Jan,unknow,M,unspecified,20.0,20.0,M
+47,2016.0,south africa,Dec,n,M,white_shark,55.0,55.0,M
+48,2016.0,usa,Dec,unknow,M,unspecified,19.0,19.0,M
+49,2016.0,australia,Dec,n,M,unspecified,20.0,20.0,M
+50,2016.0,australia,Dec,n,M,white_shark,65.0,65.0,M
+51,2016.0,australia,Nov,n,M,unspecified,27.9,27.9,M
+52,2016.0,usa,Nov,n,F,tiger_shark,58.0,58.0,F
+53,2016.0,usa,Oct,n,M,unspecified,36.0,36.0,M
+54,2016.0,australia,Sep,n,M,white_shark,17.0,17.0,M
+55,2016.0,usa,Sep,n,M,unspecified,60.0,60.0,M
+56,2016.0,usa,Sep,n,F,tiger_shark,51.0,51.0,F
+57,2016.0,usa,Aug,n,M,bull_shark,25.0,25.0,M
+58,2016.0,usa,Aug,n,M,tiger_shark,21.0,21.0,M
+59,2016.0,spain,Jul,n,M,unspecified,40.0,40.0,M
+60,2016.0,australia,Jul,n,M,unspecified,31.0,31.0,M
+61,2016.0,usa,Jul,n,M,white_shark,61.0,61.0,M
+62,2016.0,usa,Jul,n,M,unspecified,59.0,59.0,M
+63,2016.0,australia,Jul,n,M,unspecified,34.0,34.0,M
+64,2016.0,usa,Jun,n,M,unspecified,42.0,42.0,M
+65,2016.0,usa,Jun,n,F,unspecified,6.0,6.0,F
+66,2016.0,usa,Jun,n,M,unspecified,19.0,19.0,M
+67,2016.0,usa,Jun,unknow,M,unspecified,27.0,27.0,M
+68,2016.0,australia,Jun,y,F,unspecified,60.0,60.0,F
+69,2016.0,egypt,Jun,n,M,unspecified,23.0,23.0,M
+70,2016.0,australia,May,y,M,white_shark,29.0,29.0,M
+71,2016.0,usa,May,n,M,unspecified,13.0,13.0,M
+72,2016.0,usa,May,n,F,bull_shark,22.0,22.0,F
+73,2016.0,usa,May,n,M,unspecified,48.0,48.0,M
+74,2016.0,usa,May,n,F,unspecified,23.0,23.0,F
+75,2016.0,new zealand,May,n,M,unspecified,39.0,39.0,M
+76,2016.0,indonesia,Apr,n,M,bull_shark,24.0,24.0,M
+77,2016.0,australia,Apr,n,M,unspecified,12.0,12.0,M
+78,2016.0,french polynesia,Apr,unknow,M,grey_shark,22.0,22.0,M
+79,2016.0,french polynesia,Apr,n,M,grey_shark,26.0,26.0,M
+80,2016.0,new caledonia,Apr,y,F,tiger_shark,27.9,27.9,F
+81,2016.0,usa,Jan,n,M,tiger_shark,48.0,48.0,M
+82,2016.0,australia,Jan,n,M,unspecified,11.0,11.0,M
+83,2016.0,australia,Jan,n,M,unspecified,31.0,31.0,M
+84,2015.0,usa,Dec,n,M,unspecified,27.9,27.9,M
+85,2015.0,australia,Dec,n,M,unspecified,43.0,43.0,M
+86,2015.0,ecuador,Nov,n,M,unspecified,55.0,55.0,M
+87,2015.0,australia,Nov,n,M,bull_shark,20.0,20.0,M
+88,2015.0,usa,Nov,unknow,F,unspecified,9.0,9.0,F
+89,2015.0,usa,Nov,n,F,unspecified,28.0,28.0,F
+90,2015.0,south africa,Oct,n,M,white_shark,42.0,42.0,M
+91,2015.0,usa,Oct,n,M,unspecified,21.0,21.0,M
+92,2015.0,usa,Oct,n,M,unspecified,21.0,21.0,M
+93,2015.0,usa,Oct,unknow,M,unspecified,32.0,32.0,M
+94,2015.0,usa,Oct,n,M,tiger_shark,44.0,44.0,M
+95,2015.0,usa,Oct,n,M,tiger_shark,25.0,25.0,M
+96,2015.0,usa,Oct,n,M,unspecified,13.0,13.0,M
+97,2015.0,usa,Oct,n,M,unspecified,14.0,14.0,M
+98,2015.0,usa,Sep,n,M,unspecified,22.0,22.0,M
+99,2015.0,usa,Sep,n,M,unspecified,14.0,14.0,M
+100,2015.0,usa,Sep,n,M,tiger_shark,27.0,27.0,M
+101,2015.0,usa,Sep,n,M,unspecified,12.0,12.0,M
+102,2015.0,australia,Sep,n,M,unspecified,42.0,42.0,M
+103,2015.0,usa,Sep,n,F,white_shark,50.0,50.0,F
+104,2015.0,usa,Sep,n,M,unspecified,29.0,29.0,M
+105,2015.0,australia,Sep,n,M,white_shark,62.0,62.0,M
+106,2015.0,thailand,Sep,n,F,unspecified,37.0,37.0,F
+107,2015.0,usa,Aug,n,F,white_shark,54.0,54.0,F
+108,2015.0,usa,Aug,n,M,white_shark,21.0,21.0,M
+109,2015.0,usa,Aug,n,M,unspecified,15.0,15.0,M
+110,2015.0,usa,Aug,n,F,unspecified,10.0,10.0,F
+111,2015.0,usa,Aug,n,M,white_shark,22.0,22.0,M
+112,2015.0,spain,Aug,unknow,M,unspecified,10.0,10.0,M
+113,2015.0,usa,Aug,n,M,unspecified,57.0,57.0,M
+114,2015.0,australia,Jul,n,M,white_shark,52.0,52.0,M
+115,2015.0,usa,Jul,n,M,unspecified,25.0,25.0,M
+116,2015.0,usa,Jul,unknow,F,unspecified,35.0,35.0,F
+117,2015.0,australia,Jul,y,M,white_shark,46.0,46.0,M
+118,2015.0,usa,Jul,n,M,white_shark,38.0,38.0,M
+119,2015.0,australia,Jul,n,M,white_shark,52.0,52.0,M
+120,2015.0,australia,Jul,n,M,white_shark,32.0,32.0,M
+121,2015.0,usa,Jul,n,M,unspecified,27.9,27.9,M
+122,2015.0,usa,Jun,n,M,unspecified,12.0,12.0,M
+123,2015.0,usa,Jun,n,M,bull_shark,18.0,18.0,M
+124,2015.0,south africa,Jun,n,M,white_shark,19.0,19.0,M
+125,2015.0,south africa,Jun,n,M,white_shark,23.0,23.0,M
+126,2015.0,usa,Jun,n,M,unspecified,43.0,43.0,M
+127,2015.0,usa,Jun,n,M,tiger_shark,6.0,6.0,M
+128,2015.0,australia,Jun,n,F,white_shark,37.0,37.0,F
+129,2015.0,usa,Jun,n,M,bull_shark,16.0,16.0,M
+130,2015.0,usa,Jun,n,F,bull_shark,12.0,12.0,F
+131,2015.0,usa,Jun,n,F,unspecified,13.0,13.0,F
+132,2015.0,usa,Jun,n,M,bull_shark,11.0,11.0,M
+133,2015.0,reunion,Jun,n,M,bull_shark,47.0,47.0,M
+134,2015.0,french polynesia,May,n,M,unspecified,19.0,19.0,M
+135,2015.0,usa,May2015,n,M,unspecified,18.0,18.0,M
+136,2015.0,south africa,May,n,M,white_shark,29.0,29.0,M
+137,2015.0,usa,Apr,n,M,unspecified,63.0,63.0,M
+138,2015.0,australia,Apr,n,M,white_shark,26.0,26.0,M
+139,2015.0,australia,Jun,n,M,white_shark,27.9,27.9,M
+140,2015.0,reunion,Apr,y,M,bull_shark,13.0,13.0,M
+141,2015.0,usa,Apr,n,M,bull_shark,27.9,27.9,M
+142,2015.0,brazil,Mar,unknow,M,unspecified,23.0,23.0,M
+143,2015.0,usa,Mar,n,M,tiger_shark,58.0,58.0,M
+144,2015.0,french polynesia,Mar,n,M,unspecified,9.0,9.0,M
+145,2015.0,reunion,Feb,y,F,tiger_shark,22.0,22.0,F
+146,2015.0,australia,Feb,y,M,unspecified,41.0,41.0,M
+147,2015.0,australia,Feb,n,M,unspecified,35.0,35.0,M
+148,2015.0,australia,Jan,n,M,bull_shark,57.0,57.0,M
+149,2015.0,usa,Jan,n,M,unspecified,20.0,20.0,M
+150,2015.0,bahamas,Jan,n,F,white_shark,34.0,34.0,F
+151,2015.0,south africa,Jan,n,M,unspecified,15.0,15.0,M
+152,2014.0,australia,Dec,y,M,white_shark,17.0,17.0,M
+153,2014.0,usa,Dec,n,M,white_shark,50.0,50.0,M
+154,2014.0,australia,Dec,n,M,unspecified,40.0,40.0,M
+155,2014.0,australia,Dec,y,M,tiger_shark,17.0,17.0,M
+156,2014.0,usa,Nov,n,M,unspecified,44.0,44.0,M
+157,2014.0,usa,Nov,n,M,unspecified,53.0,53.0,M
+158,2014.0,usa,Oct,n,F,tiger_shark,34.0,34.0,F
+159,2014.0,australia,Oct,n,F,unspecified,13.0,13.0,F
+160,2014.0,usa,Oct,n,M,unspecified,29.0,29.0,M
+161,2014.0,usa,Oct,n,M,unspecified,15.0,15.0,M
+162,2014.0,usa,Oct,n,M,unspecified,28.0,28.0,M
+163,2014.0,australia,Oct,n,M,white_shark,23.0,23.0,M
+164,2014.0,australia,Sep,y,M,unspecified,50.0,50.0,M
+165,2014.0,usa,Sep,n,M,bull_shark,43.0,43.0,M
+166,2014.0,usa,Sep,n,F,white_shark,20.0,20.0,F
+167,2014.0,usa,Sep,n,M,unspecified,52.0,52.0,M
+168,2014.0,usa,Aug,n,F,unspecified,13.0,13.0,F
+169,2014.0,usa,Aug,n,M,bull_shark,7.0,7.0,M
+170,2014.0,usa,Aug,n,M,unspecified,10.0,10.0,M
+171,2014.0,south africa,Aug,n,M,white_shark,20.0,20.0,M
+172,2014.0,usa,Jul,n,M,unspecified,61.0,61.0,M
+173,2014.0,usa,Jul,n,M,unspecified,39.0,39.0,M
+174,2014.0,bahamas,Jul,unknow,M,unspecified,63.0,63.0,M
+175,2014.0,usa,Jul,n,M,unspecified,19.0,19.0,M
+176,2014.0,usa,Jun,n,M,unspecified,16.0,16.0,M
+177,2014.0,australia,Jun,n,M,unspecified,39.0,39.0,M
+178,2014.0,usa,Jun,n,F,bull_shark,22.0,22.0,F
+179,2014.0,australia,May,n,M,white_shark,35.0,35.0,M
+180,2014.0,usa,May,n,F,unspecified,40.0,40.0,F
+181,2014.0,usa,May,n,M,unspecified,23.0,23.0,M
+182,2014.0,australia,Apr,y,F,white_shark,63.0,63.0,F
+183,2014.0,australia,Mar,unknow,M,unspecified,38.0,38.0,M
+184,2014.0,south africa,Mar,y,M,unspecified,27.9,27.9,M
+185,2014.0,french polynesia,Feb,n,M,unspecified,21.0,21.0,M
+186,2014.0,new zealand,Feb,n,M,unspecified,28.0,28.0,M
+187,2013.0,new caledonia,Dec,n,M,bull_shark,37.0,37.0,M
+188,2013.0,south africa,Dec,n,M,white_shark,19.0,19.0,M
+189,2013.0,usa,Dec,n,M,tiger_shark,29.0,29.0,M
+190,2013.0,usa,Dec,n,M,unspecified,30.0,30.0,M
+191,2013.0,australia,Dec,n,M,unspecified,26.0,26.0,M
+192,2013.0,australia,Nov,y,M,tiger_shark,19.0,19.0,M
+193,2013.0,australia,Nov,y,M,white_shark,35.0,35.0,M
+194,2013.0,usa,Nov,n,M,white_shark,25.0,25.0,M
+195,2013.0,usa,Oct,n,M,tiger_shark,46.0,46.0,M
+196,2013.0,australia,Oct,n,F,unspecified,60.0,60.0,F
+197,2013.0,reunion,Oct,n,M,bull_shark,24.0,24.0,M
+198,2013.0,australia,Oct,n,M,unspecified,41.0,41.0,M
+199,2013.0,usa,Oct,n,M,white_shark,45.0,45.0,M
+200,2013.0,usa,Oct,n,M,tiger_shark,25.0,25.0,M
+201,2013.0,usa,Oct,n,M,unspecified,6.0,6.0,M
+202,2013.0,south africa,Oct,y,M,white_shark,27.9,27.9,M
+203,2013.0,australia,Oct,n,M,white_shark,55.0,55.0,M
+204,2013.0,usa,Oct,n,M,white_shark,45.0,45.0,M
+205,2013.0,usa,Sep,n,M,bull_shark,21.0,21.0,M
+206,2013.0,usa,Sep,n,F,unspecified,13.0,13.0,F
+207,2013.0,usa,Sep,n,M,unspecified,43.0,43.0,M
+208,2013.0,usa,Sep,n,M,unspecified,25.0,25.0,M
+209,2013.0,usa,Sep,n,M,unspecified,9.0,9.0,M
+210,2013.0,usa,Aug,y,F,tiger_shark,20.0,20.0,F
+211,2013.0,usa,Aug,n,M,bull_shark,10.0,10.0,M
+212,2013.0,usa,Aug,n,M,bull_shark,17.0,17.0,M
+213,2013.0,bahamas,Jul,n,M,unspecified,40.0,40.0,M
+214,2013.0,usa,Jul,n,M,tiger_shark,18.0,18.0,M
+215,2013.0,bahamas,Jul,n,M,unspecified,64.0,64.0,M
+216,2013.0,usa,Jun,n,M,unspecified,14.0,14.0,M
+217,2013.0,usa,Jun,n,M,tiger_shark,28.0,28.0,M
+218,2013.0,usa,ReportedJun,n,F,unspecified,10.0,10.0,F
+219,2013.0,ecuador,May,n,M,unspecified,29.0,29.0,M
+220,2013.0,reunion,May,y,M,bull_shark,36.0,36.0,M
+221,2013.0,usa,May,n,M,unspecified,16.0,16.0,M
+222,2013.0,mexico,Apr,n,F,tiger_shark,34.0,34.0,F
+223,2013.0,australia,Apr,n,M,grey_shark,51.0,51.0,M
+224,2013.0,usa,Apr,n,M,unspecified,9.0,9.0,M
+225,2013.0,usa,Apr,n,M,bull_shark,21.0,21.0,M
+226,2013.0,french polynesia,Apr,n,M,unspecified,53.0,53.0,M
+227,2013.0,usa,Apr,n,M,unspecified,58.0,58.0,M
+228,2013.0,south africa,Mar,n,M,unspecified,30.0,30.0,M
+229,2013.0,jamaica,Mar,y,M,tiger_shark,27.9,27.9,M
+230,2013.0,australia,Mar,n,M,unspecified,28.0,28.0,M
+231,2013.0,new zealand,Feb,y,M,white_shark,46.0,46.0,M
+232,2013.0,usa,Feb,n,M,unspecified,16.0,16.0,M
+233,2013.0,french polynesia,Feb,n,M,lemon_shark,48.0,48.0,M
+234,2013.0,usa,Jan,n,M,tiger_shark,43.0,43.0,M
+235,2012.0,australia,Dec,n,M,unspecified,23.0,23.0,M
+236,2012.0,australia,Dec,n,M,bull_shark,29.0,29.0,M
+237,2012.0,australia,Dec,n,M,tiger_shark,32.0,32.0,M
+238,2012.0,usa,Dec,n,M,unspecified,60.0,60.0,M
+239,2012.0,australia,Dec,n,M,tiger_shark,31.0,31.0,M
+240,2012.0,usa,Nov,n,M,tiger_shark,61.0,61.0,M
+241,2012.0,mexico,Nov,y,M,unspecified,32.0,32.0,M
+242,2012.0,usa,Nov,n,M,unspecified,14.0,14.0,M
+243,2012.0,usa,Nov,n,M,tiger_shark,30.0,30.0,M
+244,2012.0,usa,Nov,n,M,tiger_shark,43.0,43.0,M
+245,2012.0,usa,Oct,n,M,white_shark,25.0,25.0,M
+246,2012.0,usa,Oct,n,F,tiger_shark,51.0,51.0,F
+247,2012.0,usa,Oct,y,M,white_shark,39.0,39.0,M
+248,2012.0,usa,Oct,n,M,unspecified,55.0,55.0,M
+249,2012.0,australia,Oct,n,M,unspecified,11.0,11.0,M
+250,2012.0,usa,Sep,n,M,unspecified,21.0,21.0,M
+251,2012.0,usa,Sep,n,M,unspecified,22.0,22.0,M
+252,2012.0,usa,Sep,n,F,unspecified,8.0,8.0,F
+253,2012.0,usa,Sep,n,F,unspecified,56.0,56.0,F
+254,2012.0,usa,Aug,n,M,lemon_shark,56.0,56.0,M
+255,2012.0,australia,Jul,n,M,white_shark,48.0,48.0,M
+256,2012.0,usa,Jul,n,M,white_shark,50.0,50.0,M
+257,2012.0,australia,Jul,y,M,white_shark,24.0,24.0,M
+258,2012.0,usa,Jul,n,M,unspecified,52.0,52.0,M
+259,2012.0,south africa,Jul,n,M,unspecified,29.0,29.0,M
+260,2012.0,usa,Jun,n,M,bull_shark,6.0,6.0,M
+261,2012.0,usa,Jun,n,F,unspecified,16.0,16.0,F
+262,2012.0,australia,Jun,n,M,unspecified,62.0,62.0,M
+263,2012.0,usa,Jun,n,M,unspecified,23.0,23.0,M
+264,2012.0,usa,Jun,n,F,unspecified,18.0,18.0,F
+265,2012.0,usa,Jun,n,M,unspecified,16.0,16.0,M
+266,2012.0,australia,Jun,n,M,unspecified,42.0,42.0,M
+267,2012.0,italy,Jun,unknow,M,unspecified,57.0,57.0,M
+268,2012.0,australia,Jun,n,M,white_shark,30.0,30.0,M
+269,2012.0,usa,May,n,F,unspecified,33.0,33.0,F
+270,2012.0,mexico,May,n,M,bull_shark,46.0,46.0,M
+271,2012.0,usa,May,n,M,unspecified,22.0,22.0,M
+272,2012.0,usa,May,n,M,white_shark,30.0,30.0,M
+273,2012.0,usa,May,n,F,white_shark,15.0,15.0,F
+274,2012.0,usa,Apr,n,M,unspecified,28.0,28.0,M
+275,2012.0,south africa,Apr,y,M,white_shark,20.0,20.0,M
+276,2012.0,usa,Apr,n,M,tiger_shark,28.0,28.0,M
+277,2012.0,australia,Mar,y,M,white_shark,33.0,33.0,M
+278,2012.0,australia,Mar,n,M,bull_shark,20.0,20.0,M
+279,2012.0,usa,Mar,n,M,bull_shark,61.0,61.0,M
+280,2012.0,usa,Mar,n,F,unspecified,15.0,15.0,F
+281,2012.0,usa,Mar,n,M,unspecified,17.0,17.0,M
+282,2012.0,australia,Mar,n,F,unspecified,34.0,34.0,F
+283,2012.0,usa,Mar,n,M,unspecified,19.0,19.0,M
+284,2012.0,australia,Jan,n,M,tiger_shark,26.0,26.0,M
+285,2012.0,australia,Jan,n,M,white_shark,44.0,44.0,M
+286,2012.0,south africa,Jan,y,M,bull_shark,25.0,25.0,M
+287,2012.0,australia,Jan,n,M,unspecified,28.0,28.0,M
+288,2012.0,australia,Jan,n,M,tiger_shark,34.0,34.0,M
+289,2011.0,australia,Dec,n,M,white_shark,51.0,51.0,M
+290,2011.0,australia,Nov,n,M,unspecified,10.0,10.0,M
+291,2011.0,australia,Oct,y,M,white_shark,32.0,32.0,M
+292,2011.0,australia,Oct,n,M,unspecified,50.0,50.0,M
+293,2011.0,usa,Sep,unknow,M,unspecified,27.0,27.0,M
+294,2011.0,south africa,Sep,n,M,white_shark,43.0,43.0,M
+295,2011.0,usa,Sep,n,M,bull_shark,21.0,21.0,M
+296,2011.0,usa,Sep,n,M,unspecified,25.0,25.0,M
+297,2011.0,papua new guinea,Sep,n,M,tiger_shark,30.0,30.0,M
+298,2011.0,australia,Sep,y,M,white_shark,21.0,21.0,M
+299,2011.0,usa,Sep,n,M,unspecified,19.0,19.0,M
+300,2011.0,usa,Aug,n,M,unspecified,19.0,19.0,M
+301,2011.0,australia,Aug,unknow,M,unspecified,48.0,48.0,M
+302,2011.0,south africa,Aug,y,M,white_shark,49.0,49.0,M
+303,2011.0,usa,Aug,n,F,tiger_shark,20.0,20.0,F
+304,2011.0,russia,Aug,n,M,unspecified,25.0,25.0,M
+305,2011.0,french polynesia,Aug,n,M,grey_shark,32.0,32.0,M
+306,2011.0,seychelles,Aug,y,M,bull_shark,30.0,30.0,M
+307,2011.0,south africa,Jul,n,M,white_shark,29.0,29.0,M
+308,2011.0,south africa,Jun,n,M,bull_shark,22.0,22.0,M
+309,2011.0,usa,Jun,n,F,bull_shark,10.0,10.0,F
+310,2011.0,usa,Jun,n,M,unspecified,28.0,28.0,M
+311,2011.0,usa,Jun,n,M,unspecified,19.0,19.0,M
+312,2011.0,south africa,May,y,M,unspecified,28.0,28.0,M
+313,2011.0,new caledonia,May,y,M,tiger_shark,15.0,15.0,M
+314,2011.0,australia,Apr,n,M,unspecified,17.0,17.0,M
+315,2011.0,usa,Apr,n,M,unspecified,49.0,49.0,M
+316,2011.0,new zealand,Apr,n,M,unspecified,41.0,41.0,M
+317,2011.0,australia,Mar,n,M,bull_shark,48.0,48.0,M
+318,2011.0,australia,Mar,n,F,unspecified,24.0,24.0,F
+319,2011.0,australia,ReportedFeb,n,M,bull_shark,36.0,36.0,M
+320,2011.0,new caledonia,Feb,n,M,unspecified,21.0,21.0,M
+321,2011.0,australia,Feb,y,M,white_shark,49.0,49.0,M
+322,2011.0,mexico,Jan,n,F,unspecified,38.0,38.0,F
+323,2011.0,bahamas,Jan,n,M,unspecified,55.0,55.0,M
+324,2011.0,australia,Jan,unknow,F,unspecified,7.0,7.0,F
+325,2010.0,usa,Dec,n,M,unspecified,16.0,16.0,M
+326,2010.0,egypt,Dec,y,F,white_shark,27.9,27.9,F
+327,2010.0,egypt,Dec,n,M,unspecified,54.0,54.0,M
+328,2010.0,egypt,Dec,n,M,unspecified,46.0,46.0,M
+329,2010.0,egypt,Nov,n,F,white_shark,27.9,27.9,F
+330,2010.0,egypt,Nov,n,F,white_shark,48.0,48.0,F
+331,2010.0,australia,Oct,n,F,white_shark,20.0,20.0,F
+332,2010.0,usa,Oct,n,M,unspecified,30.0,30.0,M
+333,2010.0,usa,Oct,y,M,white_shark,19.0,19.0,M
+334,2010.0,australia,Oct,n,M,bull_shark,22.0,22.0,M
+335,2010.0,usa,Sep,n,M,white_shark,29.0,29.0,M
+336,2010.0,australia,Sep,n,M,unspecified,15.0,15.0,M
+337,2010.0,australia,Aug,y,M,white_shark,31.0,31.0,M
+338,2010.0,usa,Aug,n,F,unspecified,37.0,37.0,F
+339,2010.0,usa,Jul,n,M,unspecified,10.0,10.0,M
+340,2010.0,usa,Jul,n,F,tiger_shark,13.0,13.0,F
+341,2010.0,spain,Jul,n,M,unspecified,9.0,9.0,M
+342,2010.0,usa,Jul,n,M,unspecified,20.0,20.0,M
+343,2010.0,usa,Jul,n,M,unspecified,19.0,19.0,M
+344,2010.0,usa,Jul,n,M,unspecified,48.0,48.0,M
+345,2010.0,vietnam,Jun,n,M,unspecified,17.0,17.0,M
+346,2010.0,usa,Jun,n,F,unspecified,18.0,18.0,F
+347,2010.0,usa,May,n,M,lemon_shark,49.0,49.0,M
+348,2010.0,vietnam,May,n,F,unspecified,58.0,58.0,F
+349,2010.0,vietnam,May,n,F,unspecified,60.0,60.0,F
+350,2010.0,usa,May,n,F,unspecified,10.0,10.0,F
+351,2010.0,usa,Apr,n,M,lemon_shark,29.0,29.0,M
+352,2010.0,usa,Apr,n,M,unspecified,27.9,27.9,M
+353,2010.0,south africa,Apr,n,M,unspecified,35.0,35.0,M
+354,2010.0,egypt,Apr,n,M,white_shark,24.0,24.0,M
+355,2010.0,reunion,Mar,n,M,unspecified,34.0,34.0,M
+356,2010.0,australia,Feb,n,F,unspecified,60.0,60.0,F
+357,2010.0,australia,Feb,n,M,unspecified,46.0,46.0,M
+358,2010.0,australia,Feb,n,M,white_shark,18.0,18.0,M
+359,2010.0,guam,Feb,unknow,M,unspecified,31.0,31.0,M
+360,2010.0,new zealand,Feb,n,F,unspecified,14.0,14.0,F
+361,2010.0,south africa,Jan,y,M,white_shark,37.0,37.0,M
+362,2009.0,mozambique,Dec,n,M,unspecified,27.0,27.0,M
+363,2009.0,australia,Dec,n,M,bull_shark,18.0,18.0,M
+364,2009.0,usa,Dec,n,M,tiger_shark,58.0,58.0,M
+365,2009.0,usa,Nov,unknow,M,unspecified,49.0,49.0,M
+366,2009.0,usa,Nov,n,M,unspecified,10.0,10.0,M
+367,2009.0,usa,Nov,n,M,unspecified,31.0,31.0,M
+368,2009.0,usa,Nov,n,M,unspecified,18.0,18.0,M
+369,2009.0,australia,Nov,n,M,unspecified,25.0,25.0,M
+370,2009.0,australia,Oct,n,M,white_shark,27.0,27.0,M
+371,2009.0,usa,Oct,n,M,unspecified,54.0,54.0,M
+372,2009.0,scotland,Oct,n,M,unspecified,23.0,23.0,M
+373,2009.0,united kingdom,Oct,n,M,unspecified,39.0,39.0,M
+374,2009.0,usa,Sep,y,M,unspecified,60.0,60.0,M
+375,2009.0,south africa,Aug,y,M,white_shark,25.0,25.0,M
+376,2009.0,usa,Aug,n,F,white_shark,22.0,22.0,F
+377,2009.0,usa,Aug,n,M,bull_shark,56.0,56.0,M
+378,2009.0,usa,Jul,n,F,unspecified,43.0,43.0,F
+379,2009.0,australia,Jun,n,M,unspecified,52.0,52.0,M
+380,2009.0,usa,Jun,unknow,M,unspecified,14.0,14.0,M
+381,2009.0,egypt,Jun,y,F,white_shark,50.0,50.0,F
+382,2009.0,taiwan,May,n,M,unspecified,46.0,46.0,M
+383,2009.0,usa,May,n,M,unspecified,31.0,31.0,M
+384,2009.0,usa,May,n,M,unspecified,49.0,49.0,M
+385,2009.0,usa,May,n,M,unspecified,55.0,55.0,M
+386,2009.0,guam,May,n,M,unspecified,27.0,27.0,M
+387,2009.0,usa,Apr,n,M,unspecified,31.0,31.0,M
+388,2009.0,australia,Apr,n,M,unspecified,40.0,40.0,M
+389,2009.0,south africa,Apr,unknow,M,unspecified,24.0,24.0,M
+390,2009.0,australia,Mar,n,M,unspecified,17.0,17.0,M
+391,2009.0,usa,Mar,n,F,unspecified,17.0,17.0,F
+392,2009.0,usa,Mar,n,M,unspecified,61.0,61.0,M
+393,2009.0,south africa,Mar,n,M,unspecified,40.0,40.0,M
+394,2009.0,australia,Mar,n,M,unspecified,15.0,15.0,M
+395,2009.0,australia,Feb,n,M,white_shark,33.0,33.0,M
+396,2009.0,australia,Feb,n,M,bull_shark,31.0,31.0,M
+397,2009.0,australia,Feb,n,M,white_shark,41.0,41.0,M
+398,2009.0,cuba,Jan,n,M,bull_shark,15.0,15.0,M
+399,2009.0,south africa,Jan,y,M,tiger_shark,25.0,25.0,M
+400,2009.0,australia,Jan,n,M,unspecified,24.0,24.0,M
+401,2009.0,australia,Jan,n,F,white_shark,13.0,13.0,F
+402,2009.0,australia,Jan,n,M,white_shark,31.0,31.0,M
+403,2009.0,new zealand,Jan,n,M,unspecified,49.0,49.0,M
+404,2008.0,australia,Dec,n,M,white_shark,29.0,29.0,M
+405,2008.0,australia,Dec,y,M,white_shark,51.0,51.0,M
+406,2008.0,south africa,Dec,n,M,unspecified,15.0,15.0,M
+407,2008.0,australia,Oct,n,M,grey_shark,34.0,34.0,M
+408,2008.0,croatia,Oct,n,M,white_shark,43.0,43.0,M
+409,2008.0,usa,Sep,n,M,unspecified,40.0,40.0,M
+410,2008.0,australia,Sep,n,M,unspecified,43.0,43.0,M
+411,2008.0,usa,Sep,n,M,tiger_shark,40.0,40.0,M
+412,2008.0,australia,Sep,n,M,unspecified,51.0,51.0,M
+413,2008.0,usa,Sep,n,M,unspecified,52.0,52.0,M
+414,2008.0,usa,Aug,unknow,M,unspecified,27.0,27.0,M
+415,2008.0,usa,Aug,n,M,unspecified,26.0,26.0,M
+416,2008.0,usa,Aug,unknow,F,unspecified,20.0,20.0,F
+417,2008.0,usa,Aug,n,F,bull_shark,38.0,38.0,F
+418,2008.0,australia,Jul,n,M,white_shark,31.0,31.0,M
+419,2008.0,usa,Jul,n,F,unspecified,8.0,8.0,F
+420,2008.0,usa,Jul,n,M,unspecified,16.0,16.0,M
+421,2008.0,usa,Jun,unknow,M,unspecified,53.0,53.0,M
+422,2008.0,south africa,Jun,n,M,white_shark,46.0,46.0,M
+423,2008.0,usa,Jun,n,M,unspecified,37.0,37.0,M
+424,2008.0,usa,Jun,n,F,white_shark,40.0,40.0,F
+425,2008.0,usa,Jun,n,F,unspecified,15.0,15.0,F
+426,2008.0,brazil,Jun,n,M,bull_shark,14.0,14.0,M
+427,2008.0,mexico,May,n,M,unspecified,49.0,49.0,M
+428,2008.0,australia,May,n,M,white_shark,37.0,37.0,M
+429,2008.0,new caledonia,May,n,M,bull_shark,40.0,40.0,M
+430,2008.0,mexico,Apr,y,M,tiger_shark,24.0,24.0,M
+431,2008.0,usa,Apr,n,M,unspecified,18.0,18.0,M
+432,2008.0,new caledonia,Apr,n,M,bull_shark,32.0,32.0,M
+433,2008.0,usa,Apr,y,M,white_shark,27.9,27.9,M
+434,2008.0,mexico,Apr,unknow,M,unspecified,32.0,32.0,M
+435,2008.0,australia,Apr,unknow,M,unspecified,19.0,19.0,M
+436,2008.0,usa,Apr,n,M,unspecified,30.0,30.0,M
+437,2008.0,australia,Apr,y,M,bull_shark,16.0,16.0,M
+438,2008.0,usa,Mar,n,M,unspecified,52.0,52.0,M
+439,2008.0,usa,Mar,n,M,unspecified,13.0,13.0,M
+440,2008.0,usa,Mar,n,M,unspecified,8.0,8.0,M
+441,2008.0,usa,Mar,n,M,white_shark,27.0,27.0,M
+442,2008.0,bahamas,Feb,y,M,bull_shark,49.0,49.0,M
+443,2008.0,australia,Jan,n,M,unspecified,20.0,20.0,M
+444,2007.0,australia,Dec,n,M,unspecified,31.0,31.0,M
+445,2007.0,australia,Dec,unknow,M,unspecified,34.0,34.0,M
+446,2007.0,usa,Dec,n,M,tiger_shark,52.0,52.0,M
+447,2007.0,south africa,Nov,n,M,unspecified,14.0,14.0,M
+448,2007.0,usa,Nov,n,M,unspecified,21.0,21.0,M
+449,2007.0,usa,Nov,n,M,unspecified,42.0,42.0,M
+450,2007.0,south africa,Nov,n,M,white_shark,37.0,37.0,M
+451,2007.0,usa,Oct,n,M,tiger_shark,32.0,32.0,M
+452,2007.0,australia,Oct,n,F,white_shark,52.0,52.0,F
+453,2007.0,australia,Oct,n,M,unspecified,31.0,31.0,M
+454,2007.0,usa,Oct,n,M,unspecified,22.0,22.0,M
+455,2007.0,usa,Oct,n,M,unspecified,16.0,16.0,M
+456,2007.0,new caledonia,Sep,y,F,tiger_shark,23.0,23.0,F
+457,2007.0,bahamas,Sep,n,F,unspecified,48.0,48.0,F
+458,2007.0,egypt,Sep,n,F,white_shark,18.0,18.0,F
+459,2007.0,usa,Sep,n,M,unspecified,23.0,23.0,M
+460,2007.0,usa,Sep,n,F,unspecified,27.93883751651255,27.93883751651255,F
+461,2007.0,usa,Sep,n,M,unspecified,14.0,14.0,M
+462,2007.0,usa,Sep,n,F,unspecified,12.0,12.0,F
+463,2007.0,usa,Sep,n,M,unspecified,58.0,58.0,M
+464,2007.0,usa,Aug,n,M,tiger_shark,15.0,15.0,M
+465,2007.0,usa,Aug,n,M,white_shark,24.0,24.0,M
+466,2007.0,usa,Aug,n,M,unspecified,54.0,54.0,M
+467,2007.0,usa,Aug,n,M,unspecified,27.0,27.0,M
+468,2007.0,usa,Aug,n,M,unspecified,16.0,16.0,M
+469,2007.0,usa,Aug,n,M,bull_shark,20.0,20.0,M
+470,2007.0,usa,Aug,n,F,unspecified,15.0,15.0,F
+471,2007.0,usa,Aug,n,F,bull_shark,19.0,19.0,F
+472,2007.0,usa,Jul,n,M,unspecified,36.0,36.0,M
+473,2007.0,australia,Jul,n,M,unspecified,15.0,15.0,M
+474,2007.0,usa,Jul,n,M,unspecified,14.0,14.0,M
+475,2007.0,usa,Jul,unknow,F,unspecified,43.0,43.0,F
+476,2007.0,usa,Jul,n,F,unspecified,30.0,30.0,F
+477,2007.0,bahamas,Jul,n,F,bull_shark,48.0,48.0,F
+478,2007.0,usa,Jun,n,M,unspecified,20.0,20.0,M
+479,2007.0,usa,Jun,unknow,F,unspecified,9.0,9.0,F
+480,2007.0,usa,May,n,F,unspecified,40.0,40.0,F
+481,2007.0,england,ReportedMay,n,M,unspecified,38.0,38.0,M
+482,2007.0,australia,May,n,F,unspecified,38.0,38.0,F
+483,2007.0,australia,May,n,M,unspecified,19.0,19.0,M
+484,2007.0,usa,May,n,F,unspecified,21.0,21.0,F
+485,2007.0,australia,May,unknow,M,unspecified,45.0,45.0,M
+486,2007.0,usa,May,n,F,tiger_shark,63.0,63.0,F
+487,2007.0,usa,May,n,M,unspecified,27.9,27.9,M
+488,2007.0,australia,Apr,n,F,unspecified,13.0,13.0,F
+489,2007.0,usa,Apr,n,M,unspecified,12.0,12.0,M
+490,2007.0,usa,Apr,n,M,unspecified,24.0,24.0,M
+491,2007.0,new caledonia,Apr,n,M,tiger_shark,26.0,26.0,M
+492,2007.0,usa,Mar,n,M,unspecified,27.0,27.0,M
+493,2007.0,usa,Mar,n,M,unspecified,11.0,11.0,M
+494,2007.0,australia,Mar,n,F,unspecified,42.0,42.0,F
+495,2007.0,australia,Mar,n,F,unspecified,59.0,59.0,F
+496,2007.0,new caledonia,Jan,n,M,tiger_shark,30.0,30.0,M
+497,2007.0,australia,Jan,n,M,white_shark,41.0,41.0,M
+498,2007.0,south africa,Jan,y,M,tiger_shark,24.0,24.0,M
+499,2007.0,usa,Jan,unknow,M,unspecified,54.0,54.0,M
+500,2007.0,usa,Jan,n,M,tiger_shark,24.0,24.0,M
+501,2006.0,australia,Dec,n,M,unspecified,25.0,25.0,M
+502,2006.0,new zealand,Dec,n,M,unspecified,10.0,10.0,M
+503,2006.0,usa,Dec,n,M,white_shark,43.0,43.0,M
+504,2006.0,south africa,Dec,n,M,unspecified,25.0,25.0,M
+505,2006.0,australia,Dec,n,M,white_shark,15.0,15.0,M
+506,2006.0,usa,Nov,n,M,unspecified,29.0,29.0,M
+507,2006.0,usa,Oct,n,M,white_shark,22.0,22.0,M
+508,2006.0,usa,Oct,n,M,unspecified,18.0,18.0,M
+509,2006.0,usa,Sep,n,M,unspecified,55.0,55.0,M
+510,2006.0,australia,Sep,unknow,M,unspecified,44.0,44.0,M
+511,2006.0,usa,Sep,n,M,unspecified,33.0,33.0,M
+512,2006.0,south africa,Aug,n,M,white_shark,24.0,24.0,M
+513,2006.0,usa,Jul,n,M,white_shark,41.0,41.0,M
+514,2006.0,south africa,Jul,n,M,white_shark,19.0,19.0,M
+515,2006.0,usa,Jul,n,M,unspecified,14.0,14.0,M
+516,2006.0,usa,Jul,n,M,unspecified,49.0,49.0,M
+517,2006.0,usa,Jul,n,F,bull_shark,14.0,14.0,F
+518,2006.0,usa,Jun,n,F,unspecified,22.0,22.0,F
+519,2006.0,usa,Jun,n,M,unspecified,24.0,24.0,M
+520,2006.0,usa,Jun,n,F,unspecified,7.0,7.0,F
+521,2006.0,australia,Jun,n,M,white_shark,40.0,40.0,M
+522,2006.0,usa,May,n,M,tiger_shark,26.0,26.0,M
+523,2006.0,usa,May,n,M,grey_shark,15.0,15.0,M
+524,2006.0,usa,May,n,F,tiger_shark,30.0,30.0,F
+525,2006.0,australia,May,n,M,unspecified,46.0,46.0,M
+526,2006.0,usa,Apr,n,M,bull_shark,35.0,35.0,M
+527,2006.0,australia,Apr,n,M,unspecified,15.0,15.0,M
+528,2006.0,south africa,Apr,n,M,unspecified,15.0,15.0,M
+529,2006.0,brazil,Apr,n,M,tiger_shark,35.0,35.0,M
+530,2006.0,usa,Mar,n,F,tiger_shark,28.0,28.0,F
+531,2006.0,fiji,Mar,n,M,tiger_shark,21.0,21.0,M
+532,2006.0,australia,Mar,n,M,unspecified,15.0,15.0,M
+533,2006.0,usa,Feb,n,F,unspecified,15.0,15.0,F
+534,2006.0,usa,Feb,unknow,M,unspecified,45.0,45.0,M
+535,2006.0,south africa,Feb,n,M,unspecified,15.0,15.0,M
+536,2006.0,tonga,Feb,y,F,tiger_shark,24.0,24.0,F
+537,2006.0,usa,Feb,n,M,unspecified,57.0,57.0,M
+538,2006.0,australia,Jan,n,M,white_shark,52.0,52.0,M
+539,2006.0,australia,Jan,y,F,bull_shark,21.0,21.0,F
+540,2006.0,usa,Jan,n,M,unspecified,21.0,21.0,M
+541,2005.0,usa,Dec,n,M,white_shark,30.0,30.0,M
+542,2005.0,usa,Dec,n,M,tiger_shark,29.0,29.0,M
+543,2005.0,australia,Dec,n,M,white_shark,44.0,44.0,M
+544,2005.0,usa,Nov,n,M,unspecified,23.0,23.0,M
+545,2005.0,australia,Nov,n,M,unspecified,18.0,18.0,M
+546,2005.0,usa,Nov,n,M,unspecified,30.0,30.0,M
+547,2005.0,south africa,Nov,n,M,unspecified,32.0,32.0,M
+548,2005.0,usa,Nov,n,M,unspecified,18.0,18.0,M
+549,2005.0,usa,Nov,n,M,white_shark,26.0,26.0,M
+550,2005.0,st. maartin,Oct,n,M,unspecified,55.0,55.0,M
+551,2005.0,south africa,Oct,n,M,unspecified,20.0,20.0,M
+552,2005.0,usa,Oct,n,M,white_shark,36.0,36.0,M
+553,2005.0,usa,Oct,n,F,white_shark,20.0,20.0,F
+554,2005.0,usa,Oct,n,M,tiger_shark,22.0,22.0,M
+555,2005.0,grand cayman,Oct,n,F,unspecified,57.0,57.0,F
+556,2005.0,south africa,Oct,n,M,white_shark,52.0,52.0,M
+557,2005.0,australia,Sep,n,M,white_shark,26.0,26.0,M
+558,2005.0,australia,Sep,n,M,unspecified,44.0,44.0,M
+559,2005.0,usa,Sep,n,F,unspecified,27.9,27.9,F
+560,2005.0,usa,Sep,n,F,bull_shark,18.0,18.0,F
+561,2005.0,australia,Sep,n,M,white_shark,40.0,40.0,M
+562,2005.0,australia,Aug,y,M,white_shark,23.0,23.0,M
+563,2005.0,usa,Aug,n,M,white_shark,37.0,37.0,M
+564,2005.0,usa,Aug,unknow,M,unspecified,17.0,17.0,M
+565,2005.0,usa,Aug,n,M,unspecified,8.0,8.0,M
+566,2005.0,usa,Aug,n,M,unspecified,16.0,16.0,M
+567,2005.0,usa,Jul,unknow,M,unspecified,25.0,25.0,M
+568,2005.0,usa,Jul,n,M,unspecified,22.0,22.0,M
+569,2005.0,usa,Jul,n,F,unspecified,14.0,14.0,F
+570,2005.0,usa,Jun,n,M,bull_shark,16.0,16.0,M
+571,2005.0,usa,Jun,y,F,bull_shark,14.0,14.0,F
+572,2005.0,vanuatu,Jun,y,F,unspecified,7.0,7.0,F
+573,2005.0,usa,Jun,unknow,M,unspecified,49.0,49.0,M
+574,2005.0,usa,Jun,n,M,unspecified,20.0,20.0,M
+575,2005.0,usa,Jun,unknow,M,white_shark,17.0,17.0,M
+576,2005.0,south africa,Jun,y,M,white_shark,22.0,22.0,M
+577,2005.0,usa,May,n,M,unspecified,33.0,33.0,M
+578,2005.0,south africa,May,n,M,unspecified,32.0,32.0,M
+579,2005.0,usa,May,n,M,tiger_shark,47.0,47.0,M
+580,2005.0,australia,Apr,n,M,unspecified,25.0,25.0,M
+581,2005.0,australia,Apr,n,M,unspecified,40.0,40.0,M
+582,2005.0,south africa,Mar,n,M,unspecified,32.0,32.0,M
+583,2005.0,australia,Mar,y,M,white_shark,26.0,26.0,M
+584,2005.0,usa,Mar,n,M,tiger_shark,45.0,45.0,M
+585,2005.0,new zealand,Jan,n,M,white_shark,39.0,39.0,M
+586,2004.0,australia,Dec,y,M,white_shark,18.0,18.0,M
+587,2004.0,australia,Dec,y,M,bull_shark,38.0,38.0,M
+588,2004.0,south africa,Nov,n,M,unspecified,20.0,20.0,M
+589,2004.0,south africa,Nov,y,F,white_shark,27.9,27.9,F
+590,2004.0,usa,Nov,n,F,white_shark,38.0,38.0,F
+591,2004.0,cuba,Oct,n,M,bull_shark,40.0,40.0,M
+592,2004.0,south africa,Oct,n,M,white_shark,52.0,52.0,M
+593,2004.0,australia,Oct,n,M,unspecified,59.0,59.0,M
+594,2004.0,usa,Oct,n,M,tiger_shark,34.0,34.0,M
+595,2004.0,south africa,Oct,n,M,unspecified,34.0,34.0,M
+596,2004.0,reunion,Oct,n,M,tiger_shark,15.0,15.0,M
+597,2004.0,usa,Sep,n,M,white_shark,26.0,26.0,M
+598,2004.0,usa,Sep,n,F,unspecified,17.0,17.0,F
+599,2004.0,brazil,Aug,n,M,tiger_shark,24.0,24.0,M
+600,2004.0,usa,Aug,y,M,white_shark,50.0,50.0,M
+601,2004.0,usa,Aug,n,M,unspecified,47.0,47.0,M
+602,2004.0,usa,Jul,n,F,unspecified,13.0,13.0,F
+603,2004.0,usa,Jul,n,F,unspecified,19.0,19.0,F
+604,2004.0,usa,Jul,n,M,bull_shark,11.0,11.0,M
+605,2004.0,australia,Jul,y,M,unspecified,30.0,30.0,M
+606,2004.0,usa,Jul,n,M,unspecified,7.0,7.0,M
+607,2004.0,usa,Jun,n,M,white_shark,45.0,45.0,M
+608,2004.0,australia,Jun,n,M,unspecified,17.0,17.0,M
+609,2004.0,usa,Jun,n,M,unspecified,8.0,8.0,M
+610,2004.0,south africa,Jun,y,M,white_shark,21.0,21.0,M
+611,2004.0,usa,May,n,M,unspecified,16.0,16.0,M
+612,2004.0,brazil,May,n,M,bull_shark,17.0,17.0,M
+613,2004.0,usa,May,n,M,unspecified,44.0,44.0,M
+614,2004.0,bahamas,May,n,M,unspecified,63.0,63.0,M
+615,2004.0,usa,May,n,M,unspecified,28.0,28.0,M
+616,2004.0,usa,Apr,y,M,tiger_shark,57.0,57.0,M
+617,2004.0,south africa,Apr,n,M,white_shark,16.0,16.0,M
+618,2004.0,usa,Mar,n,M,bull_shark,20.0,20.0,M
+619,2004.0,brazil,Mar,n,M,bull_shark,22.0,22.0,M
+620,2004.0,reunion,Mar,n,M,unspecified,20.0,20.0,M
+621,2004.0,usa,Mar,n,M,tiger_shark,51.0,51.0,M
+622,2004.0,new zealand,Feb,n,M,unspecified,15.0,15.0,M
+623,2004.0,australia,Feb,unknow,M,unspecified,31.0,31.0,M
+624,2004.0,australia,Jan,n,M,white_shark,46.0,46.0,M
+625,2004.0,venezuela,Jan,n,M,bull_shark,40.0,40.0,M
+626,2003.0,south africa,Nov,y,M,tiger_shark,21.0,21.0,M
+627,2003.0,usa,Nov,n,F,unspecified,35.0,35.0,F
+628,2003.0,usa,Oct,n,M,unspecified,18.0,18.0,M
+629,2003.0,australia,Oct,n,M,grey_shark,22.0,22.0,M
+630,2003.0,usa,Oct,n,F,tiger_shark,13.0,13.0,F
+631,2003.0,usa,Oct,unknow,M,unspecified,56.0,56.0,M
+632,2003.0,usa,Oct,n,M,unspecified,19.0,19.0,M
+633,2003.0,usa,Oct,n,F,grey_shark,41.0,41.0,F
+634,2003.0,usa,Sep,n,M,unspecified,30.0,30.0,M
+635,2003.0,usa,Sep,unknow,F,unspecified,8.0,8.0,F
+636,2003.0,usa,Sep,n,M,unspecified,18.0,18.0,M
+637,2003.0,usa,Sep,n,M,unspecified,15.0,15.0,M
+638,2003.0,south africa,Sep,y,M,white_shark,19.0,19.0,M
+639,2003.0,usa,Aug,y,F,white_shark,50.0,50.0,F
+640,2003.0,usa,Aug,unknow,M,unspecified,31.0,31.0,M
+641,2003.0,south africa,Aug,n,M,white_shark,16.0,16.0,M
+642,2003.0,bahamas,Jul,n,M,unspecified,58.0,58.0,M
+643,2003.0,usa,Jul,n,M,unspecified,10.0,10.0,M
+644,2003.0,bahamas,Jul,n,M,bull_shark,39.0,39.0,M
+645,2003.0,usa,Jun,n,M,unspecified,17.0,17.0,M
+646,2003.0,usa,Jun,n,M,unspecified,15.0,15.0,M
+647,2003.0,usa,Jun,n,F,unspecified,12.0,12.0,F
+648,2003.0,usa,Jun,n,M,unspecified,60.0,60.0,M
+649,2003.0,usa,Jun,n,M,unspecified,33.0,33.0,M
+650,2003.0,usa,May,n,M,unspecified,22.0,22.0,M
+651,2003.0,usa,May,n,M,grey_shark,20.0,20.0,M
+652,2003.0,usa,May,n,M,unspecified,34.0,34.0,M
+653,2003.0,brazil,Apr,n,M,bull_shark,17.0,17.0,M
+654,2003.0,usa,Apr,n,M,unspecified,36.0,36.0,M
+655,2003.0,usa,Apr,n,M,unspecified,17.0,17.0,M
+656,2003.0,usa,Apr,n,M,unspecified,30.0,30.0,M
+657,2003.0,usa,Apr,n,M,unspecified,23.0,23.0,M
+658,2003.0,usa,Apr,n,M,unspecified,18.0,18.0,M
+659,2003.0,usa,Apr,n,M,unspecified,11.0,11.0,M
+660,2003.0,usa,Apr,n,M,unspecified,12.0,12.0,M
+661,2003.0,usa,Apr,n,M,unspecified,20.0,20.0,M
+662,2003.0,venezuela,Apr,n,M,unspecified,28.0,28.0,M
+663,2003.0,usa,Apr,n,M,unspecified,50.0,50.0,M
+664,2003.0,new zealand,Feb,n,M,white_shark,44.0,44.0,M
+665,2003.0,australia,Feb,n,M,unspecified,37.0,37.0,M
+666,2003.0,usa,Feb,n,M,unspecified,54.0,54.0,M
+667,2003.0,australia,Feb,n,M,grey_shark,24.0,24.0,M
+668,2003.0,australia,Feb,y,M,bull_shark,27.9,27.9,M
+669,2003.0,south africa,Jan,unknow,M,unspecified,14.0,14.0,M
+670,2002.0,south africa,Dec,n,M,white_shark,25.0,25.0,M
+671,2002.0,australia,Dec,y,M,bull_shark,23.0,23.0,M
+672,2002.0,usa,Nov,n,M,white_shark,48.0,48.0,M
+673,2002.0,usa,Nov,n,F,grey_shark,34.0,34.0,F
+674,2002.0,turks & caicos,Nov,n,F,unspecified,41.0,41.0,F
+675,2002.0,usa,Nov,n,M,unspecified,21.0,21.0,M
+676,2002.0,usa,Nov,n,M,unspecified,16.0,16.0,M
+677,2002.0,usa,Oct,n,F,unspecified,60.0,60.0,F
+678,2002.0,brazil,Oct,y,M,tiger_shark,36.0,36.0,M
+679,2002.0,usa,Oct,n,M,unspecified,14.0,14.0,M
+680,2002.0,usa,Oct,n,M,unspecified,35.0,35.0,M
+681,2002.0,usa,Oct,n,M,unspecified,18.0,18.0,M
+682,2002.0,usa,Sep,n,M,unspecified,47.0,47.0,M
+683,2002.0,usa,Sep,n,M,unspecified,55.0,55.0,M
+684,2002.0,usa,Sep,n,M,unspecified,27.93883751651255,27.93883751651255,M
+685,2002.0,tonga,Sep,n,M,tiger_shark,27.93883751651255,27.93883751651255,M
+686,2002.0,usa,Sep,n,M,unspecified,24.0,24.0,M
+687,2002.0,usa,Sep,n,M,unspecified,35.0,35.0,M
+688,2002.0,brazil,Sep,n,M,tiger_shark,19.0,19.0,M
+689,2002.0,south africa,Sep,n,M,white_shark,47.0,47.0,M
+690,2002.0,usa,Sep,n,M,unspecified,20.0,20.0,M
+691,2002.0,usa,Sep,n,M,unspecified,36.0,36.0,M
+692,2002.0,usa,Aug,n,M,tiger_shark,16.0,16.0,M
+693,2002.0,usa,Aug,n,M,unspecified,27.0,27.0,M
+694,2002.0,usa,Aug,n,M,unspecified,15.0,15.0,M
+695,2002.0,usa,Aug,n,M,unspecified,14.0,14.0,M
+696,2002.0,usa,Jul,n,M,unspecified,13.0,13.0,M
+697,2002.0,usa,Jul,n,F,bull_shark,15.0,15.0,F
+698,2002.0,usa,Jul,y,M,unspecified,41.0,41.0,M
+699,2002.0,brazil,Jul,n,M,tiger_shark,22.0,22.0,M
+700,2002.0,usa,Jul,n,F,bull_shark,9.0,9.0,F
+701,2002.0,usa,Jun,n,M,unspecified,28.0,28.0,M
+702,2002.0,usa,Jun,n,M,unspecified,50.0,50.0,M
+703,2002.0,south africa,Jun,n,M,unspecified,50.0,50.0,M
+704,2002.0,usa,May,n,M,white_shark,24.0,24.0,M
+705,2002.0,usa,May,n,M,unspecified,16.0,16.0,M
+706,2002.0,usa,May,n,M,unspecified,55.0,55.0,M
+707,2002.0,australia,Apr,y,M,white_shark,23.0,23.0,M
+708,2002.0,usa,Apr,n,M,unspecified,34.0,34.0,M
+709,2002.0,bahamas,Apr,n,M,bull_shark,43.0,43.0,M
+710,2002.0,usa,Apr,n,M,unspecified,41.0,41.0,M
+711,2002.0,usa,Apr,n,M,unspecified,29.0,29.0,M
+712,2002.0,usa,Mar,n,M,tiger_shark,17.0,17.0,M
+713,2002.0,usa,Mar,n,F,unspecified,11.0,11.0,F
+714,2002.0,usa,Mar,n,M,unspecified,20.0,20.0,M
+715,2002.0,usa,Mar,n,M,unspecified,39.0,39.0,M
+716,2002.0,usa,Mar,n,M,unspecified,31.0,31.0,M
+717,2002.0,australia,Feb,n,M,unspecified,30.0,30.0,M
+718,2002.0,australia,Feb,n,M,unspecified,35.0,35.0,M
+719,2002.0,australia,Jan,n,M,tiger_shark,20.0,20.0,M
+720,2002.0,south africa,Jan,n,M,unspecified,16.0,16.0,M
+721,2002.0,south africa,Jan,n,M,unspecified,26.0,26.0,M
+722,2002.0,usa,Jan,n,M,tiger_shark,35.0,35.0,M
+723,2001.0,australia,Oct,n,F,unspecified,20.0,20.0,F
+724,2001.0,mexico,Sep,n,M,tiger_shark,26.0,26.0,M
+725,2001.0,usa,Sep,n,M,unspecified,21.0,21.0,M
+726,2001.0,usa,Sep,y,M,unspecified,42.0,42.0,M
+727,2001.0,usa,Sep,n,M,unspecified,6.0,6.0,M
+728,2001.0,usa,Sep,y,M,white_shark,28.0,28.0,M
+729,2001.0,usa,Sep,n,F,white_shark,23.0,23.0,F
+730,2001.0,usa,Sep,n,M,unspecified,20.0,20.0,M
+731,2001.0,usa,Sep,y,M,bull_shark,10.0,10.0,M
+732,2001.0,bahamas,Aug,n,M,bull_shark,44.0,44.0,M
+733,2001.0,usa,Aug,n,M,unspecified,17.0,17.0,M
+734,2001.0,usa,Aug,n,M,unspecified,20.0,20.0,M
+735,2001.0,usa,Aug,n,M,unspecified,19.0,19.0,M
+736,2001.0,usa,Aug,n,M,unspecified,19.0,19.0,M
+737,2001.0,bahamas,Aug,n,M,bull_shark,43.0,43.0,M
+738,2001.0,usa,Jul,n,M,unspecified,18.0,18.0,M
+739,2001.0,usa,Jul,n,M,bull_shark,8.0,8.0,M
+740,2001.0,usa,Jun,n,M,white_shark,52.0,52.0,M
+741,2001.0,usa,Jun,n,F,unspecified,29.0,29.0,F
+742,2001.0,usa,May,n,M,unspecified,45.0,45.0,M
+743,2001.0,usa,Apr,n,M,unspecified,12.0,12.0,M
+744,2001.0,usa,Apr,n,M,unspecified,21.0,21.0,M
+745,2001.0,usa,Apr,n,M,unspecified,12.0,12.0,M
+746,2001.0,usa,Apr,n,M,unspecified,22.0,22.0,M
+747,2001.0,usa,Apr,n,M,unspecified,19.0,19.0,M
+748,2001.0,south africa,Apr,n,M,white_shark,46.0,46.0,M
+749,2001.0,usa,Apr,n,M,unspecified,26.0,26.0,M
+750,2001.0,australia,Apr,n,M,unspecified,40.0,40.0,M
+751,2001.0,australia,Feb,n,M,unspecified,40.0,40.0,M
+752,2000.0,fiji,Dec,y,M,unspecified,47.0,47.0,M
+753,2000.0,australia,Dec,n,M,unspecified,38.0,38.0,M
+754,2000.0,usa,Nov,n,M,unspecified,27.9,27.9,M
+755,2000.0,australia,Nov,n,M,white_shark,52.0,52.0,M
+756,2000.0,australia,Nov,y,M,white_shark,49.0,49.0,M
+757,2000.0,usa,Nov,n,M,white_shark,27.0,27.0,M
+758,2000.0,usa,Oct,n,F,tiger_shark,56.0,56.0,F
+759,2000.0,usa,Oct,n,M,unspecified,17.0,17.0,M
+760,2000.0,usa,Oct,n,M,unspecified,23.0,23.0,M
+761,2000.0,australia,Sep,y,M,white_shark,17.0,17.0,M
+762,2000.0,australia,Sep,y,M,white_shark,25.0,25.0,M
+763,2000.0,okinawa,Sep,y,M,white_shark,31.0,31.0,M
+764,2000.0,usa,Sep,n,M,unspecified,25.0,25.0,M
+765,2000.0,south africa,Sep,n,M,white_shark,48.0,48.0,M
+766,2000.0,usa,Sep,n,M,unspecified,40.0,40.0,M
+767,2000.0,reunion,Sep,n,M,tiger_shark,27.0,27.0,M
+768,2000.0,usa,Aug,n,M,unspecified,47.0,47.0,M
+769,2000.0,usa,Aug,y,M,bull_shark,27.9,27.9,M
+770,2000.0,usa,Aug,n,M,tiger_shark,53.0,53.0,M
+771,2000.0,usa,Aug,n,M,unspecified,27.0,27.0,M
+772,2000.0,usa,Aug,n,F,unspecified,44.0,44.0,F
+773,2000.0,usa,Jul,n,F,tiger_shark,12.0,12.0,F
+774,2000.0,usa,Jul,n,F,unspecified,55.0,55.0,F
+775,2000.0,usa,Jul,n,F,unspecified,13.0,13.0,F
+776,2000.0,usa,Jul,n,F,unspecified,19.0,19.0,F
+777,2000.0,usa,Jun,n,M,unspecified,17.0,17.0,M
+778,2000.0,usa,Jun,n,M,bull_shark,55.0,55.0,M
+779,2000.0,usa,Jun,n,M,bull_shark,44.0,44.0,M
+780,2000.0,australia,Mar,n,M,unspecified,26.0,26.0,M
+781,2000.0,usa,Mar,n,F,unspecified,14.0,14.0,F
+782,2000.0,usa,Mar,n,M,unspecified,37.0,37.0,M
+783,2000.0,new caledonia,Mar,y,M,tiger_shark,35.0,35.0,M
+784,2000.0,usa,Mar,n,M,unspecified,39.0,39.0,M
+785,1999.0,brazil,Dec,n,M,unspecified,39.0,39.0,M
+786,1999.0,usa,Nov,n,F,tiger_shark,51.0,51.0,F
+787,1999.0,brazil,Nov,n,M,unspecified,39.0,39.0,M
+788,1999.0,usa,Oct,n,M,tiger_shark,16.0,16.0,M
+789,1999.0,usa,Sep,n,M,white_shark,37.0,37.0,M
+790,1999.0,usa,Aug,n,M,unspecified,28.0,28.0,M
+791,1999.0,marshall islands,Aug,n,M,unspecified,23.0,23.0,M
+792,1999.0,usa,Aug,n,M,unspecified,10.0,10.0,M
+793,1999.0,usa,Aug,n,M,unspecified,62.0,62.0,M
+794,1999.0,bahamas,Aug,n,M,bull_shark,35.0,35.0,M
+795,1999.0,south africa,Jul,n,M,white_shark,42.0,42.0,M
+796,1999.0,usa,Jul,n,M,bull_shark,43.0,43.0,M
+797,1999.0,usa,Jul,n,M,tiger_shark,43.0,43.0,M
+798,1999.0,south africa,Jul,y,M,white_shark,14.0,14.0,M
+799,1999.0,usa,Jul,n,F,unspecified,30.0,30.0,F
+800,1999.0,south africa,Jul,n,M,white_shark,29.0,29.0,M
+801,1999.0,usa,Jun,n,M,unspecified,21.0,21.0,M
+802,1999.0,usa,Jun,n,M,unspecified,5.0,5.0,M
+803,1999.0,australia,May,y,M,white_shark,22.0,22.0,M
+804,1999.0,brazil,May,n,M,tiger_shark,21.0,21.0,M
+805,1999.0,mauritius,Apr,n,F,grey_shark,41.0,41.0,F
+806,1999.0,reunion,Apr,y,M,bull_shark,52.0,52.0,M
+807,1999.0,usa,Mar,n,F,unspecified,29.0,29.0,F
+808,1999.0,australia,Feb,n,M,tiger_shark,35.0,35.0,M
+809,1999.0,usa,Feb,n,M,unspecified,25.0,25.0,M
+810,1999.0,south africa,,n,M,white_shark,30.0,30.0,M
+811,1998.0,south africa,ReportedDec,n,M,white_shark,18.0,18.0,M
+812,1998.0,usa,Nov,y,M,tiger_shark,9.0,9.0,M
+813,1998.0,usa,Nov,n,M,unspecified,14.0,14.0,M
+814,1998.0,usa,Nov,n,M,unspecified,13.0,13.0,M
+815,1998.0,brazil,Nov,y,M,white_shark,22.0,22.0,M
+816,1998.0,usa,Aug,n,M,unspecified,26.0,26.0,M
+817,1998.0,usa,Aug,n,M,white_shark,16.0,16.0,M
+818,1998.0,bahamas,Aug,n,M,unspecified,28.0,28.0,M
+819,1998.0,south africa,Aug,n,M,white_shark,24.0,24.0,M
+820,1998.0,south africa,Jul,n,M,unspecified,16.0,16.0,M
+821,1998.0,australia,Jun,y,M,white_shark,26.0,26.0,M
+822,1998.0,south africa,Jun,y,M,white_shark,20.0,20.0,M
+823,1998.0,south africa,May,n,M,white_shark,15.0,15.0,M
+824,1998.0,south africa,May,n,M,unspecified,16.0,16.0,M
+825,1998.0,usa,May,n,M,lemon_shark,40.0,40.0,M
+826,1998.0,usa,May,n,F,unspecified,14.0,14.0,F
+827,1998.0,south africa,May,n,M,white_shark,22.0,22.0,M
+828,1998.0,mozambique,Apr,y,F,unspecified,35.0,35.0,F
+829,1998.0,usa,Apr,n,M,white_shark,50.0,50.0,M
+830,1998.0,south africa,Mar,n,M,white_shark,33.0,33.0,M
+831,1998.0,usa,Mar,n,M,unspecified,32.0,32.0,M
+832,1998.0,australia,ReportedJan,unknow,M,unspecified,31.0,31.0,M
+833,1998.0,mozambique,Jan,n,M,unspecified,23.0,23.0,M
+834,1997.0,south africa,Dec,y,M,white_shark,39.0,39.0,M
+835,1997.0,australia,Nov,n,M,white_shark,42.0,42.0,M
+836,1997.0,usa,Oct,n,M,tiger_shark,19.0,19.0,M
+837,1997.0,usa,Oct,n,M,unspecified,23.0,23.0,M
+838,1997.0,usa,Oct,n,M,unspecified,12.0,12.0,M
+839,1997.0,usa,Aug,n,M,white_shark,29.0,29.0,M
+840,1997.0,usa,Aug,n,M,unspecified,17.0,17.0,M
+841,1997.0,usa,Aug,n,M,unspecified,19.0,19.0,M
+842,1997.0,south africa,Jul,y,M,white_shark,25.0,25.0,M
+843,1997.0,usa,Jul,n,M,unspecified,50.0,50.0,M
+844,1997.0,fiji,Jun,n,F,tiger_shark,47.0,47.0,F
+845,1997.0,usa,Jun,n,M,unspecified,18.0,18.0,M
+846,1997.0,usa,Jun,n,M,unspecified,33.0,33.0,M
+847,1997.0,usa,May,n,M,unspecified,35.0,35.0,M
+848,1997.0,usa,May,n,M,unspecified,34.0,34.0,M
+849,1997.0,usa,May,n,M,unspecified,12.0,12.0,M
+850,1997.0,australia,Feb,n,M,tiger_shark,30.0,30.0,M
+851,1997.0,australia,Jan,n,M,unspecified,27.0,27.0,M
+852,1997.0,australia,Jan,y,M,tiger_shark,41.0,41.0,M
+853,1996.0,usa,Nov,n,M,white_shark,45.0,45.0,M
+854,1996.0,usa,Oct,n,M,white_shark,22.0,22.0,M
+855,1996.0,usa,Oct,n,M,unspecified,21.0,21.0,M
+856,1996.0,usa,Oct,n,M,white_shark,31.0,31.0,M
+857,1996.0,new zealand,Sep,n,M,white_shark,23.0,23.0,M
+858,1996.0,usa,Sep,n,M,unspecified,19.0,19.0,M
+859,1996.0,usa,Sep,unknow,F,unspecified,28.0,28.0,F
+860,1996.0,south africa,Sep,n,M,white_shark,29.0,29.0,M
+861,1996.0,usa,Aug,n,M,tiger_shark,19.0,19.0,M
+862,1996.0,usa,Aug,n,M,white_shark,36.0,36.0,M
+863,1996.0,usa,Aug,n,M,unspecified,21.0,21.0,M
+864,1996.0,usa,Jul,n,F,unspecified,63.0,63.0,F
+865,1996.0,south africa,May,n,M,white_shark,17.0,17.0,M
+866,1996.0,usa,May,n,M,unspecified,22.0,22.0,M
+867,1996.0,usa,May,n,M,unspecified,27.0,27.0,M
+868,1996.0,australia,Mar,n,F,tiger_shark,47.0,47.0,F
+869,1996.0,australia,Feb,n,M,unspecified,24.0,24.0,M
+870,1996.0,australia,Feb,n,M,unspecified,7.0,7.0,M
+871,1996.0,usa,Jan,n,M,tiger_shark,53.0,53.0,M
+872,1996.0,reunion,Jan,y,M,tiger_shark,25.0,25.0,M
+873,1995.0,australia,Oct,n,F,unspecified,15.0,15.0,F
+874,1995.0,usa,Oct,n,M,unspecified,39.0,39.0,M
+875,1995.0,usa,Sep,n,M,unspecified,14.0,14.0,M
+876,1995.0,usa,Sep,n,M,white_shark,25.0,25.0,M
+877,1995.0,australia,Sep,y,M,white_shark,29.0,29.0,M
+878,1995.0,usa,Sep,n,M,white_shark,32.0,32.0,M
+879,1995.0,usa,Aug,n,M,unspecified,16.0,16.0,M
+880,1995.0,usa,Aug,n,M,unspecified,18.0,18.0,M
+881,1995.0,usa,Aug,n,M,unspecified,16.0,16.0,M
+882,1995.0,usa,Aug,n,M,unspecified,23.0,23.0,M
+883,1995.0,usa,Aug,n,M,unspecified,19.0,19.0,M
+884,1995.0,tonga,Aug,n,M,unspecified,18.0,18.0,M
+885,1995.0,usa,Aug,n,M,unspecified,20.0,20.0,M
+886,1995.0,usa,Aug,n,M,unspecified,12.0,12.0,M
+887,1995.0,usa,Jun,n,M,white_shark,31.0,31.0,M
+888,1995.0,usa,Jun,n,M,unspecified,45.0,45.0,M
+889,1995.0,usa,Jun,n,F,unspecified,10.0,10.0,F
+890,1995.0,usa,Jun,n,M,tiger_shark,38.0,38.0,M
+891,1995.0,hong kong,Jun,y,M,unspecified,29.0,29.0,M
+892,1995.0,japan,Apr,y,M,white_shark,47.0,47.0,M
+893,1995.0,australia,Mar,n,M,unspecified,35.0,35.0,M
+894,1995.0,south africa,Feb,n,M,unspecified,22.0,22.0,M
+895,1995.0,south africa,Jan,y,M,tiger_shark,14.0,14.0,M
+896,1994.0,south africa,Dec,n,M,white_shark,26.0,26.0,M
+897,1994.0,usa,Dec,y,M,white_shark,42.0,42.0,M
+898,1994.0,usa,Nov,n,F,unspecified,34.0,34.0,F
+899,1994.0,usa,Oct,n,F,unspecified,9.0,9.0,F
+900,1994.0,usa,Sep,n,M,white_shark,43.0,43.0,M
+901,1994.0,usa,Sep,n,F,unspecified,12.0,12.0,F
+902,1994.0,reunion,Jul,y,M,bull_shark,24.0,24.0,M
+903,1994.0,south africa,Jul,y,M,white_shark,22.0,22.0,M
+904,1994.0,south africa,Jul,n,M,white_shark,31.0,31.0,M
+905,1994.0,usa,Jul,n,M,unspecified,15.0,15.0,M
+906,1994.0,bahamas,Jun,n,M,unspecified,30.0,30.0,M
+907,1994.0,usa,May,n,M,unspecified,28.0,28.0,M
+908,1994.0,usa,May,n,M,unspecified,22.0,22.0,M
+909,1994.0,usa,Feb,n,M,unspecified,23.0,23.0,M
+910,1994.0,south africa,Feb,n,M,white_shark,15.0,15.0,M
+911,1994.0,south africa,Jan,n,M,unspecified,33.0,33.0,M
+912,1993.0,australia,Nov,y,M,tiger_shark,27.0,27.0,M
+913,1993.0,usa,Oct,n,M,white_shark,26.0,26.0,M
+914,1993.0,usa,Oct,n,F,bull_shark,26.0,26.0,F
+915,1993.0,usa,Oct,n,F,white_shark,34.0,34.0,F
+916,1993.0,south africa,Sep,n,M,white_shark,36.0,36.0,M
+917,1993.0,spain,Sep,n,M,unspecified,27.9,27.9,M
+918,1993.0,bahamas,Aug,n,M,unspecified,51.0,51.0,M
+919,1993.0,usa,Aug,n,F,bull_shark,19.0,19.0,F
+920,1993.0,usa,Aug,n,M,white_shark,39.0,39.0,M
+921,1993.0,south africa,Jul,n,M,white_shark,28.0,28.0,M
+922,1993.0,usa,Jul,n,F,unspecified,12.0,12.0,F
+923,1993.0,usa,Jun,n,M,tiger_shark,22.0,22.0,M
+924,1993.0,australia,Jun,y,M,white_shark,31.0,31.0,M
+925,1993.0,australia,Jun,y,F,white_shark,34.0,34.0,F
+926,1993.0,usa,Jun,n,F,unspecified,60.0,60.0,F
+927,1993.0,usa,Mar,n,M,tiger_shark,35.0,35.0,M
+928,1993.0,usa,Mar,n,M,white_shark,55.0,55.0,M
+929,1993.0,australia,Feb,n,M,unspecified,27.9,27.9,M
+930,1993.0,australia,Jan,n,M,unspecified,21.0,21.0,M
+931,1993.0,usa,Jan,n,M,white_shark,29.0,29.0,M
+932,1992.0,usa,Dec,n,M,tiger_shark,10.0,10.0,M
+933,1992.0,usa,Dec,n,M,tiger_shark,30.0,30.0,M
+934,1992.0,usa,Nov,n,M,unspecified,31.0,31.0,M
+935,1992.0,usa,Nov,n,M,unspecified,19.0,19.0,M
+936,1992.0,usa,Nov,n,M,white_shark,46.0,46.0,M
+937,1992.0,usa,Nov,n,M,unspecified,40.0,40.0,M
+938,1992.0,usa,Nov,y,M,tiger_shark,18.0,18.0,M
+939,1992.0,usa,Oct,n,M,white_shark,40.0,40.0,M
+940,1992.0,usa,Oct,n,M,tiger_shark,28.0,28.0,M
+941,1992.0,australia,Oct,y,M,white_shark,28.0,28.0,M
+942,1992.0,usa,Sep,n,M,white_shark,20.0,20.0,M
+943,1992.0,australia,Aug,n,M,white_shark,17.0,17.0,M
+944,1992.0,usa,Aug,n,M,white_shark,22.0,22.0,M
+945,1992.0,usa,Jul,n,F,unspecified,42.0,42.0,F
+946,1992.0,reunion,Jun,y,M,lemon_shark,16.0,16.0,M
+947,1992.0,south africa,Apr,n,M,unspecified,35.0,35.0,M
+948,1992.0,usa,Mar,n,F,tiger_shark,36.0,36.0,F
+949,1992.0,japan,Mar,y,M,white_shark,41.0,41.0,M
+950,1992.0,usa,Mar,n,M,white_shark,21.0,21.0,M
+951,1992.0,australia,Feb,unknow,M,unspecified,19.0,19.0,M
+952,1992.0,australia,Jan,n,M,unspecified,19.0,19.0,M
+953,1992.0,south africa,Jan,n,M,unspecified,19.0,19.0,M
+954,1992.0,south africa,Jan,n,M,unspecified,36.0,36.0,M
+955,1991.0,usa,Dec,n,M,white_shark,25.0,25.0,M
+956,1991.0,usa,Nov,y,F,tiger_shark,41.0,41.0,F
+957,1991.0,usa,Oct,n,M,unspecified,21.0,21.0,M
+958,1991.0,usa,Oct,n,M,white_shark,32.0,32.0,M
+959,1991.0,australia,Sep,y,M,white_shark,19.0,19.0,M
+960,1991.0,australia,Aug,n,M,unspecified,36.0,36.0,M
+961,1991.0,usa,Aug,n,M,unspecified,23.0,23.0,M
+962,1991.0,usa,Aug,n,F,unspecified,10.0,10.0,F
+963,1991.0,italy,Jul,n,F,white_shark,40.0,40.0,F
+964,1991.0,reunion,Jul,n,M,tiger_shark,30.0,30.0,M
+965,1991.0,usa,Jul,n,M,white_shark,32.0,32.0,M
+966,1991.0,usa,Jun,n,M,lemon_shark,31.0,31.0,M
+967,1991.0,hong kong,Jun,y,F,tiger_shark,65.0,65.0,F
+968,1991.0,usa,May,n,M,unspecified,23.0,23.0,M
+969,1991.0,usa,Apr,n,M,unspecified,22.0,22.0,M
+970,1991.0,usa,Feb,n,M,white_shark,38.0,38.0,M
+971,1991.0,south africa,Feb,n,M,white_shark,20.0,20.0,M
+972,1990.0,usa,Nov,n,M,unspecified,24.0,24.0,M
+973,1990.0,usa,Oct,n,M,unspecified,50.0,50.0,M
+974,1990.0,usa,Oct,n,M,unspecified,25.0,25.0,M
+975,1990.0,usa,Oct,n,M,tiger_shark,43.0,43.0,M
+976,1990.0,usa,Oct,n,M,unspecified,19.0,19.0,M
+977,1990.0,south africa,Sep,n,M,white_shark,26.0,26.0,M
+978,1990.0,usa,Sep,n,M,white_shark,49.0,49.0,M
+979,1990.0,usa,Sep,n,M,white_shark,44.0,44.0,M
+980,1990.0,usa,Aug,n,M,white_shark,22.0,22.0,M
+981,1990.0,south africa,Jun,y,F,white_shark,21.0,21.0,F
+982,1990.0,south africa,May,n,M,white_shark,22.0,22.0,M
+983,1990.0,south africa,Apr,n,M,white_shark,23.0,23.0,M
+984,1990.0,australia,Apr,n,M,tiger_shark,31.0,31.0,M
+985,1989.0,south africa,Nov,y,M,white_shark,29.0,29.0,M
+986,1989.0,australia,Oct,n,M,white_shark,17.0,17.0,M
+987,1989.0,usa,Oct,n,M,unspecified,12.0,12.0,M
+988,1989.0,usa,Oct,unknow,M,unspecified,49.0,49.0,M
+989,1989.0,south africa,Sep,n,M,white_shark,29.0,29.0,M
+990,1989.0,usa,Sep,n,M,unspecified,51.0,51.0,M
+991,1989.0,usa,Sep,n,M,white_shark,38.0,38.0,M
+992,1989.0,australia,Aug,n,M,grey_shark,30.0,30.0,M
+993,1989.0,south africa,Aug,n,M,white_shark,21.0,21.0,M
+994,1989.0,australia,Aug,n,M,unspecified,17.0,17.0,M
+995,1989.0,south africa,Jul,n,M,white_shark,34.0,34.0,M
+996,1989.0,south africa,Jun,n,M,white_shark,16.0,16.0,M
+997,1989.0,south africa,Jun,n,M,white_shark,28.0,28.0,M
+998,1989.0,australia,Mar,y,M,white_shark,27.0,27.0,M
+999,1989.0,italy,Feb,y,M,white_shark,47.0,47.0,M
+1000,1989.0,usa,Jan,unknow,M,unspecified,24.0,24.0,M
+1001,1989.0,usa,Jan,y,F,white_shark,24.0,24.0,F
+1002,1989.0,australia,Jan,n,M,tiger_shark,17.0,17.0,M
+1003,1988.0,usa,Oct,n,M,white_shark,21.0,21.0,M
+1004,1988.0,usa,Oct,n,M,unspecified,30.0,30.0,M
+1005,1988.0,usa,Oct,n,M,unspecified,23.0,23.0,M
+1006,1988.0,usa,Sep,n,M,unspecified,21.0,21.0,M
+1007,1988.0,usa,Sep,y,M,bull_shark,38.0,38.0,M
+1008,1988.0,usa,Aug,n,M,white_shark,27.0,27.0,M
+1009,1988.0,south africa,Jun,n,M,white_shark,36.0,36.0,M
+1010,1988.0,usa,Jun,n,M,unspecified,37.0,37.0,M
+1011,1988.0,usa,Jun,n,M,unspecified,25.0,25.0,M
+1012,1988.0,south africa,Mar,n,M,unspecified,17.0,17.0,M
+1013,1988.0,south africa,Feb,n,M,grey_shark,20.0,20.0,M
+1014,1988.0,south africa,Feb,n,F,unspecified,15.0,15.0,F
+1015,1988.0,south africa,Jan,unknow,M,unspecified,22.0,22.0,M
+1016,1988.0,south africa,Jan,n,M,unspecified,33.0,33.0,M
+1017,1987.0,usa,Dec,n,M,unspecified,16.0,16.0,M
+1018,1987.0,usa,Oct,n,M,unspecified,20.0,20.0,M
+1019,1987.0,south africa,Oct,unknow,M,unspecified,14.0,14.0,M
+1020,1987.0,south africa,Oct,n,M,white_shark,21.0,21.0,M
+1021,1987.0,south africa,Sep,n,M,white_shark,24.0,24.0,M
+1022,1987.0,usa,Aug,n,M,unspecified,12.0,12.0,M
+1023,1987.0,usa,Aug,n,M,white_shark,40.0,40.0,M
+1024,1987.0,usa,Jul,n,M,unspecified,27.0,27.0,M
+1025,1987.0,usa,Jul,n,F,unspecified,32.0,32.0,F
+1026,1987.0,usa,Jul,n,F,unspecified,16.0,16.0,F
+1027,1987.0,vanuatu,Apr,y,M,unspecified,8.0,8.0,M
+1028,1987.0,south africa,Jan,n,M,white_shark,30.0,30.0,M
+1029,1986.0,south africa,Dec,y,M,white_shark,21.0,21.0,M
+1030,1986.0,usa,Dec,n,M,unspecified,40.0,40.0,M
+1031,1986.0,usa,Dec,n,M,white_shark,27.0,27.0,M
+1032,1986.0,usa,Oct,n,F,lemon_shark,6.0,6.0,F
+1033,1986.0,south africa,Oct,n,M,unspecified,32.0,32.0,M
+1034,1986.0,south africa,Aug,unknow,M,unspecified,35.0,35.0,M
+1035,1986.0,south africa,Jul,n,M,unspecified,26.0,26.0,M
+1036,1986.0,south africa,Mar,n,M,unspecified,26.0,26.0,M
+1037,1986.0,south africa,Feb,n,M,white_shark,21.0,21.0,M
+1038,1986.0,south africa,Feb,n,M,unspecified,46.0,46.0,M
+1039,1986.0,south africa,Feb,n,M,unspecified,29.0,29.0,M
+1040,1986.0,australia,Feb,n,M,unspecified,29.0,29.0,M
+1041,1986.0,usa,Jan,n,M,unspecified,22.0,22.0,M
+1042,1986.0,usa,,n,M,unspecified,16.0,16.0,M
+1043,1985.0,south africa,Oct,n,M,white_shark,22.0,22.0,M
+1044,1985.0,usa,Oct,n,M,unspecified,46.0,46.0,M
+1045,1985.0,usa,Sep,unknow,M,unspecified,17.0,17.0,M
+1046,1985.0,usa,Aug,unknow,M,unspecified,11.0,11.0,M
+1047,1985.0,usa,Aug,unknow,M,unspecified,27.9,27.9,M
+1048,1985.0,usa,Jul,n,F,unspecified,13.0,13.0,F
+1049,1985.0,italy,MidJulJul,n,M,white_shark,13.0,13.0,M
+1050,1985.0,australia,Mar,y,F,white_shark,33.0,33.0,F
+1051,1985.0,usa,Feb,n,M,white_shark,29.0,29.0,M
+1052,1985.0,south africa,Jan,n,M,unspecified,15.0,15.0,M
+1053,1985.0,south africa,Jan,n,M,white_shark,18.0,18.0,M
+1054,1985.0,south africa,Jan,n,M,white_shark,34.0,34.0,M
+1055,1985.0,south africa,Jan,n,M,unspecified,20.0,20.0,M
+1056,1984.0,australia,Nov,y,M,tiger_shark,16.0,16.0,M
+1057,1984.0,usa,Oct,unknow,M,unspecified,22.0,22.0,M
+1058,1984.0,usa,Oct,n,F,unspecified,23.0,23.0,F
+1059,1984.0,usa,Oct,unknow,F,unspecified,27.9,27.9,F
+1060,1984.0,usa,Oct,n,M,unspecified,15.0,15.0,M
+1061,1984.0,usa,Sep,n,M,white_shark,25.0,25.0,M
+1062,1984.0,usa,Sep,n,M,unspecified,16.0,16.0,M
+1063,1984.0,usa,Sep,y,M,white_shark,28.0,28.0,M
+1064,1984.0,usa,Jul,n,F,unspecified,18.0,18.0,F
+1065,1984.0,south africa,Jul,unknow,M,unspecified,21.0,21.0,M
+1066,1984.0,south africa,Jun,n,M,white_shark,27.0,27.0,M
+1067,1984.0,usa,Jun,n,F,unspecified,13.0,13.0,F
+1068,1984.0,south africa,Feb,n,M,unspecified,33.0,33.0,M
+1069,1984.0,south africa,Jan,n,M,unspecified,14.0,14.0,M
+1070,1983.0,south africa,Dec,n,M,unspecified,47.0,47.0,M
+1071,1983.0,south africa,Aug,n,M,white_shark,29.0,29.0,M
+1072,1983.0,usa,Aug,n,F,unspecified,14.0,14.0,F
+1073,1983.0,usa,Aug,n,F,bull_shark,22.0,22.0,F
+1074,1983.0,australia,Jul,y,F,tiger_shark,21.0,21.0,F
+1075,1983.0,australia,Jul,y,M,tiger_shark,24.0,24.0,M
+1076,1983.0,australia,Jul,n,M,tiger_shark,28.0,28.0,M
+1077,1983.0,usa,Jul,n,F,unspecified,39.0,39.0,F
+1078,1983.0,usa,May,n,M,unspecified,21.0,21.0,M
+1079,1983.0,south africa,Apr,n,M,unspecified,27.0,27.0,M
+1080,1983.0,south africa,Mar,n,M,unspecified,17.0,17.0,M
+1081,1983.0,south africa,Feb,n,M,unspecified,16.0,16.0,M
+1082,1983.0,south africa,Jan,n,M,white_shark,32.0,32.0,M
+1083,1982.0,usa,Oct,n,M,unspecified,26.0,26.0,M
+1084,1982.0,south africa,Sep,n,M,white_shark,16.0,16.0,M
+1085,1982.0,usa,Sep,n,M,unspecified,20.0,20.0,M
+1086,1982.0,usa,Sep,n,M,white_shark,36.0,36.0,M
+1087,1982.0,usa,Sep,n,M,white_shark,28.0,28.0,M
+1088,1982.0,usa,Aug,unknow,M,unspecified,17.0,17.0,M
+1089,1982.0,south africa,Jul,unknow,M,unspecified,20.0,20.0,M
+1090,1982.0,south africa,Jul,n,M,white_shark,38.0,38.0,M
+1091,1982.0,usa,Jul,n,M,white_shark,26.0,26.0,M
+1092,1982.0,usa,Jul,n,M,unspecified,17.0,17.0,M
+1093,1982.0,south africa,Jun,y,M,white_shark,27.0,27.0,M
+1094,1982.0,usa,Jun,n,M,unspecified,20.0,20.0,M
+1095,1982.0,south africa,Jan,n,M,unspecified,20.0,20.0,M
+1096,1981.0,usa,Dec,y,M,white_shark,24.0,24.0,M
+1097,1981.0,usa,Oct,n,M,unspecified,19.0,19.0,M
+1098,1981.0,usa,Sep,y,M,tiger_shark,26.0,26.0,M
+1099,1981.0,bahamas,Aug,n,M,unspecified,53.0,53.0,M
+1100,1981.0,south africa,Jul,n,M,unspecified,32.0,32.0,M
+1101,1981.0,south korea,May,y,F,white_shark,27.0,27.0,F
+1102,1981.0,south africa,May,n,M,unspecified,27.0,27.0,M
+1103,1981.0,south africa,May,n,M,unspecified,19.0,19.0,M
+1104,1981.0,south africa,May,n,M,tiger_shark,24.0,24.0,M
+1105,1981.0,usa,Mar,n,M,bull_shark,19.0,19.0,M
+1106,1981.0,usa,Mar,n,M,unspecified,24.0,24.0,M
+1107,1981.0,south africa,Feb,n,M,unspecified,30.0,30.0,M
+1108,1981.0,usa,Feb,n,M,unspecified,15.0,15.0,M
+1109,1981.0,australia,,n,M,tiger_shark,27.0,27.0,M
+1110,1980.0,south africa,,n,M,unspecified,25.0,25.0,M
+1111,1980.0,reunion,Nov,n,M,white_shark,22.0,22.0,M
+1112,1980.0,usa,Oct,n,M,white_shark,29.0,29.0,M
+1113,1980.0,usa,Oct,n,M,white_shark,19.0,19.0,M
+1114,1980.0,usa,Jul,n,F,unspecified,22.0,22.0,F
+1115,1980.0,south africa,May,n,M,unspecified,22.0,22.0,M
+1116,1980.0,mexico,Apr,n,F,tiger_shark,13.0,13.0,F
+1117,1980.0,south africa,Jan,n,M,white_shark,24.0,24.0,M
+1118,1980.0,south africa,Jan,n,M,unspecified,29.0,29.0,M
+1119,1980.0,south africa,Jan,n,M,unspecified,25.0,25.0,M
+1120,1980.0,south africa,,unknow,M,unspecified,20.0,20.0,M
+1121,1979.0,usa,Nov,n,M,white_shark,20.0,20.0,M
+1122,1979.0,south africa,May,n,M,white_shark,25.0,25.0,M
+1123,1979.0,usa,Mar,n,M,unspecified,27.0,27.0,M
+1124,1979.0,south africa,Feb,n,M,unspecified,19.0,19.0,M
+1125,1978.0,south africa,Dec,y,M,white_shark,23.0,23.0,M
+1126,1978.0,south africa,Sep,n,M,white_shark,27.0,27.0,M
+1127,1978.0,south africa,Jan,n,M,unspecified,17.0,17.0,M
+1128,1977.0,south africa,Dec,n,M,tiger_shark,18.0,18.0,M
+1129,1977.0,south africa,Oct,n,M,white_shark,25.0,25.0,M
+1130,1977.0,australia,Aug,n,M,white_shark,17.0,17.0,M
+1131,1977.0,usa,Aug,n,M,white_shark,20.0,20.0,M
+1132,1977.0,usa,Jun,n,M,bull_shark,27.0,27.0,M
+1133,1976.0,usa,Dec,n,M,white_shark,29.0,29.0,M
+1134,1976.0,south africa,Nov,n,M,white_shark,19.0,19.0,M
+1135,1976.0,usa,Nov,n,M,lemon_shark,19.0,19.0,M
+1136,1976.0,usa,Oct,n,M,white_shark,25.0,25.0,M
+1137,1976.0,south africa,Oct,n,M,white_shark,20.0,20.0,M
+1138,1976.0,usa,Sep,n,M,tiger_shark,15.0,15.0,M
+1139,1976.0,usa,Aug,n,M,white_shark,19.0,19.0,M
+1140,1976.0,usa,Jun,n,M,unspecified,17.0,17.0,M
+1141,1975.0,usa,Dec,n,M,white_shark,27.0,27.0,M
+1142,1975.0,south africa,Nov,n,M,unspecified,33.0,33.0,M
+1143,1975.0,south africa,Aug,n,M,white_shark,19.0,19.0,M
+1144,1975.0,usa,Aug,n,M,unspecified,20.0,20.0,M
+1145,1975.0,usa,Aug,n,M,white_shark,44.0,44.0,M
+1146,1975.0,australia,Jul,y,M,white_shark,37.0,37.0,M
+1147,1975.0,usa,Jul,n,M,white_shark,23.0,23.0,M
+1148,1975.0,usa,Jul,n,M,white_shark,34.0,34.0,M
+1149,1975.0,usa,Jul,n,F,unspecified,14.0,14.0,F
+1150,1975.0,usa,Jun,n,M,unspecified,18.0,18.0,M
+1151,1975.0,south africa,Feb,n,M,unspecified,16.0,16.0,M
+1152,1975.0,australia,Feb,y,M,white_shark,12.0,12.0,M
+1153,1974.0,usa,Sep,n,M,white_shark,17.0,17.0,M
+1154,1974.0,usa,Sep,n,M,white_shark,29.0,29.0,M
+1155,1974.0,israel,Sep,n,F,unspecified,20.0,20.0,F
+1156,1974.0,usa,Sep,n,M,white_shark,41.0,41.0,M
+1157,1974.0,usa,Sep,n,M,white_shark,48.0,48.0,M
+1158,1974.0,usa,Sep,n,M,white_shark,24.0,24.0,M
+1159,1974.0,usa,May,n,M,white_shark,45.0,45.0,M
+1160,1974.0,south africa,Apr,n,M,unspecified,22.0,22.0,M
+1161,1974.0,south africa,Apr,n,M,unspecified,17.0,17.0,M
+1162,1974.0,south africa,Mar,n,M,unspecified,21.0,21.0,M
+1163,1974.0,south africa,Jan,n,M,unspecified,33.0,33.0,M
+1164,1973.0,bahamas,Sep,n,M,bull_shark,11.0,11.0,M
+1165,1973.0,mexico,Sep,y,M,white_shark,37.0,37.0,M
+1166,1973.0,south africa,Mar,n,M,unspecified,26.0,26.0,M
+1167,1972.0,mozambique,Dec,n,M,unspecified,25.0,25.0,M
+1168,1972.0,usa,Jun,n,M,unspecified,22.0,22.0,M
+1169,1972.0,usa,May,n,M,white_shark,32.0,32.0,M
+1170,1972.0,australia,Feb,n,M,unspecified,18.0,18.0,M
+1171,1972.0,south africa,Jan,n,F,unspecified,30.0,30.0,F
+1172,1972.0,mozambique,Jan,n,M,white_shark,24.0,24.0,M
+1173,1971.0,south africa,Dec,n,F,white_shark,16.0,16.0,F
+1174,1971.0,usa,Oct,n,M,unspecified,18.0,18.0,M
+1175,1971.0,south africa,Oct,n,M,unspecified,25.0,25.0,M
+1176,1971.0,usa,Oct,n,M,white_shark,30.0,30.0,M
+1177,1971.0,croatia,Sep,y,M,white_shark,34.0,34.0,M
+1178,1971.0,australia,Aug,n,M,grey_shark,26.0,26.0,M
+1179,1971.0,south africa,Jun,n,M,white_shark,21.0,21.0,M
+1180,1971.0,south africa,Apr,y,M,white_shark,50.0,50.0,M
+1181,1971.0,new zealand,Mar,n,M,white_shark,16.0,16.0,M
+1182,1970.0,micronesia,Sep,n,M,unspecified,43.0,43.0,M
+1183,1970.0,south africa,Jun,n,M,unspecified,25.0,25.0,M
+1184,1969.0,usa,Sep,n,M,white_shark,53.0,53.0,M
+1185,1969.0,usa,Aug,n,M,unspecified,13.0,13.0,M
+1186,1969.0,usa,May,n,M,unspecified,23.0,23.0,M
+1187,1969.0,usa,Mar,n,M,white_shark,16.0,16.0,M
+1188,1969.0,australia,ReportedFeb,n,M,unspecified,49.0,49.0,M
+1189,1968.0,australia,Dec,n,M,grey_shark,27.0,27.0,M
+1190,1968.0,new zealand,Dec,n,M,white_shark,17.0,17.0,M
+1191,1968.0,new zealand,Sep,y,M,white_shark,24.0,24.0,M
+1192,1968.0,columbia,Aug,n,M,unspecified,18.0,18.0,M
+1193,1968.0,usa,Jul,n,M,white_shark,25.0,25.0,M
+1194,1968.0,usa,Jul,n,M,unspecified,33.0,33.0,M
+1195,1968.0,usa,Apr,unknow,M,unspecified,63.0,63.0,M
+1196,1968.0,south africa,Mar,n,M,unspecified,35.0,35.0,M
+1197,1968.0,usa,Mar,unknow,M,unspecified,28.0,28.0,M
+1198,1968.0,australia,Feb,n,M,unspecified,26.0,26.0,M
+1199,1967.0,south africa,Dec,n,M,unspecified,22.0,22.0,M
+1200,1967.0,usa,Oct,n,M,unspecified,19.0,19.0,M
+1201,1967.0,usa,Aug,n,M,unspecified,24.0,24.0,M
+1202,1967.0,australia,Aug,y,M,white_shark,23.0,23.0,M
+1203,1967.0,australia,Aug,unknow,M,unspecified,19.0,19.0,M
+1204,1967.0,usa,Aug,n,M,unspecified,15.0,15.0,M
+1205,1967.0,bahamas,Aug,n,M,unspecified,41.0,41.0,M
+1206,1967.0,usa,Jun,n,M,unspecified,26.0,26.0,M
+1207,1967.0,south africa,Mar,n,M,white_shark,32.0,32.0,M
+1208,1967.0,australia,Mar,n,M,grey_shark,36.0,36.0,M
+1209,1967.0,new zealand,Mar,y,M,white_shark,21.0,21.0,M
+1210,1966.0,papua new guinea,Oct,y,F,unspecified,13.0,13.0,F
+1211,1966.0,papua new guinea,Oct,y,F,unspecified,8.0,8.0,F
+1212,1966.0,australia,Sep,n,M,unspecified,32.0,32.0,M
+1213,1966.0,australia,Sep,n,M,unspecified,43.0,43.0,M
+1214,1966.0,new britain,Aug,y,F,unspecified,13.0,13.0,F
+1215,1966.0,new britain,Aug,y,F,unspecified,9.0,9.0,F
+1216,1966.0,usa,MidAug,unknow,M,unspecified,26.0,26.0,M
+1217,1966.0,usa,Aug,n,M,unspecified,8.0,8.0,M
+1218,1966.0,usa,Jul,n,M,unspecified,34.0,34.0,M
+1219,1966.0,usa,Jul,unknow,M,unspecified,46.0,46.0,M
+1220,1966.0,usa,Jun,n,M,unspecified,15.0,15.0,M
+1221,1966.0,usa,Jun,n,M,unspecified,18.0,18.0,M
+1222,1966.0,usa,Jun,n,M,unspecified,18.0,18.0,M
+1223,1966.0,usa,May,unknow,M,unspecified,24.0,24.0,M
+1224,1966.0,australia,Feb,n,M,white_shark,13.0,13.0,M
+1225,1966.0,south africa,Jan,n,M,unspecified,33.0,33.0,M
+1226,1966.0,usa,Jan,n,M,white_shark,29.0,29.0,M
+1227,1966.0,south africa,Jan,n,M,unspecified,16.0,16.0,M
+1228,1966.0,south africa,Jan,n,M,unspecified,15.0,15.0,M
+1229,1966.0,usa,Jan,n,M,unspecified,35.0,35.0,M
+1230,1966.0,usa,Summer,unknow,F,unspecified,15.0,15.0,F
+1231,1965.0,australia,Nov,n,M,grey_shark,24.0,24.0,M
+1232,1965.0,usa,Apr,unknow,M,unspecified,19.0,19.0,M
+1233,1965.0,usa,Apr,n,M,white_shark,28.0,28.0,M
+1234,1965.0,palau,Apr,n,M,tiger_shark,8.0,8.0,M
+1235,1965.0,usa,Apr,n,M,unspecified,17.0,17.0,M
+1236,1965.0,usa,Mar,n,M,unspecified,16.0,16.0,M
+1237,1965.0,south africa,Feb,n,M,unspecified,25.0,25.0,M
+1238,1965.0,usa,Feb,n,M,unspecified,18.0,18.0,M
+1239,1965.0,south africa,Jan,n,M,white_shark,22.0,22.0,M
+1240,1964.0,south africa,Dec,n,M,unspecified,19.0,19.0,M
+1241,1964.0,papua new guinea,Dec,n,M,unspecified,28.0,28.0,M
+1242,1964.0,australia,Nov,n,M,white_shark,25.0,25.0,M
+1243,1964.0,australia,Oct,n,M,grey_shark,19.0,19.0,M
+1244,1964.0,taiwan,Sep,n,M,unspecified,20.0,20.0,M
+1245,1964.0,mexico,Aug,n,M,unspecified,19.0,19.0,M
+1246,1964.0,usa,Aug,unknow,M,unspecified,18.0,18.0,M
+1247,1964.0,usa,Aug,n,M,unspecified,28.0,28.0,M
+1248,1964.0,usa,Jun,unknow,F,unspecified,29.0,29.0,F
+1249,1964.0,south africa,Jun,unknow,M,unspecified,40.0,40.0,M
+1250,1964.0,fiji,May,y,M,tiger_shark,35.0,35.0,M
+1251,1964.0,usa,Mar,n,M,unspecified,38.0,38.0,M
+1252,1964.0,new zealand,Feb,n,M,white_shark,26.0,26.0,M
+1253,1964.0,south africa,Feb,n,M,white_shark,25.0,25.0,M
+1254,1964.0,new zealand,Feb,y,M,white_shark,19.0,19.0,M
+1255,1964.0,australia,Feb,unknow,M,unspecified,23.0,23.0,M
+1256,1964.0,usa,Jan,n,M,white_shark,21.0,21.0,M
+1257,1963.0,south africa,Dec,n,F,unspecified,20.0,20.0,F
+1258,1963.0,south africa,Dec,n,M,unspecified,24.0,24.0,M
+1259,1963.0,south africa,Dec,n,M,unspecified,13.0,13.0,M
+1260,1963.0,south africa,Dec,y,M,unspecified,15.0,15.0,M
+1261,1963.0,australia,Dec,n,M,white_shark,23.0,23.0,M
+1262,1963.0,new zealand,Nov,n,M,unspecified,20.0,20.0,M
+1263,1963.0,papua new guinea,Nov,n,F,tiger_shark,18.0,18.0,F
+1264,1963.0,fiji,Nov,n,F,tiger_shark,21.0,21.0,F
+1265,1963.0,palau,Nov,n,M,unspecified,35.0,35.0,M
+1266,1963.0,usa,Oct,n,M,unspecified,28.0,28.0,M
+1267,1963.0,solomon islands,Sep,y,M,unspecified,30.0,30.0,M
+1268,1963.0,australia,Sep,n,M,unspecified,18.0,18.0,M
+1269,1963.0,usa,Sep,n,M,unspecified,16.0,16.0,M
+1270,1963.0,federated states of micronesia,Jul,n,M,tiger_shark,26.0,26.0,M
+1271,1963.0,greece,Jun,y,F,white_shark,42.0,42.0,F
+1272,1963.0,papua new guinea,Jun,n,M,unspecified,30.0,30.0,M
+1273,1963.0,usa,Apr,y,M,unspecified,25.0,25.0,M
+1274,1963.0,usa,Apr,n,M,unspecified,15.0,15.0,M
+1275,1963.0,australia,Feb,n,M,unspecified,18.0,18.0,M
+1276,1963.0,fiji,Feb,n,M,white_shark,28.0,28.0,M
+1277,1963.0,australia,Jan,y,F,bull_shark,32.0,32.0,F
+1278,1963.0,australia,Jan,unknow,M,unspecified,25.0,25.0,M
+1279,1963.0,south africa,Jan,n,M,unspecified,27.0,27.0,M
+1280,1963.0,south africa,Jan,n,M,unspecified,24.0,24.0,M
+1281,1962.0,australia,Dec,y,M,white_shark,16.0,16.0,M
+1282,1962.0,usa,Nov,n,M,white_shark,24.0,24.0,M
+1283,1962.0,mexico,Oct,y,M,unspecified,32.0,32.0,M
+1284,1962.0,british west indies,Sep,n,M,unspecified,24.0,24.0,M
+1285,1962.0,italy,Sep,y,M,white_shark,28.0,28.0,M
+1286,1962.0,papua new guinea,Aug,n,M,unspecified,49.0,49.0,M
+1287,1962.0,usa,Aug,n,M,unspecified,39.0,39.0,M
+1288,1962.0,usa,Aug,y,M,unspecified,40.0,40.0,M
+1289,1962.0,usa,Aug,n,M,unspecified,24.0,24.0,M
+1290,1962.0,usa,Jul,n,M,unspecified,19.0,19.0,M
+1291,1962.0,usa,Jun,n,M,unspecified,11.0,11.0,M
+1292,1962.0,usa,Jun,n,M,unspecified,55.0,55.0,M
+1293,1962.0,south africa,Apr,n,M,unspecified,13.0,13.0,M
+1294,1962.0,papua new guinea,Mar,y,M,unspecified,10.0,10.0,M
+1295,1962.0,south africa,Feb,y,M,white_shark,13.0,13.0,M
+1296,1962.0,australia,Feb,n,M,unspecified,35.0,35.0,M
+1297,1962.0,new zealand,Jan,n,M,unspecified,18.0,18.0,M
+1298,1962.0,south africa,Jan,unknow,M,unspecified,40.0,40.0,M
+1299,1962.0,usa,Jan,n,M,white_shark,29.0,29.0,M
+1300,1962.0,australia,Jan,n,M,unspecified,19.0,19.0,M
+1301,1962.0,papua new guinea,Jan,n,M,white_shark,24.0,24.0,M
+1302,1962.0,new zealand,Jan,n,F,unspecified,54.0,54.0,F
+1303,1962.0,marshall islands,Jan,n,M,unspecified,57.0,57.0,M
+1304,1961.0,australia,Dec,y,F,unspecified,18.0,18.0,F
+1305,1961.0,australia,Dec,n,M,unspecified,24.0,24.0,M
+1306,1961.0,south africa,Dec,n,M,unspecified,18.0,18.0,M
+1307,1961.0,australia,Dec,n,M,grey_shark,23.0,23.0,M
+1308,1961.0,australia,Dec,y,M,unspecified,22.0,22.0,M
+1309,1961.0,australia,Dec,n,M,unspecified,17.0,17.0,M
+1310,1961.0,croatia,Sep,y,M,white_shark,19.0,19.0,M
+1311,1961.0,usa,Aug,n,M,white_shark,16.0,16.0,M
+1312,1961.0,usa,Aug,n,M,white_shark,19.0,19.0,M
+1313,1961.0,usa,Aug,n,M,unspecified,38.0,38.0,M
+1314,1961.0,usa,Jul,n,M,unspecified,57.0,57.0,M
+1315,1961.0,italy,Jul,n,M,white_shark,21.0,21.0,M
+1316,1961.0,usa,May,n,M,white_shark,20.0,20.0,M
+1317,1961.0,usa,May,n,M,unspecified,52.0,52.0,M
+1318,1961.0,usa,Apr,unknow,M,unspecified,10.0,10.0,M
+1319,1961.0,mozambique,Apr,n,M,unspecified,37.0,37.0,M
+1320,1961.0,australia,Apr,n,M,unspecified,40.0,40.0,M
+1321,1961.0,mozambique,Apr,y,M,unspecified,38.0,38.0,M
+1322,1961.0,australia,Mar,n,M,unspecified,24.0,24.0,M
+1323,1961.0,australia,Mar,n,M,white_shark,21.0,21.0,M
+1324,1961.0,north pacific ocean,Mar,n,M,grey_shark,33.0,33.0,M
+1325,1961.0,south africa,Feb,n,M,unspecified,27.0,27.0,M
+1326,1961.0,south africa,Feb,y,M,unspecified,14.0,14.0,M
+1327,1961.0,south africa,Jan,n,M,white_shark,15.0,15.0,M
+1328,1961.0,australia,Jan,n,M,unspecified,27.0,27.0,M
+1329,1961.0,south africa,Jan,n,M,white_shark,13.0,13.0,M
+1330,1960.0,south africa,Dec,y,M,white_shark,25.0,25.0,M
+1331,1960.0,australia,Dec,n,M,grey_shark,33.0,33.0,M
+1332,1960.0,australia,Nov,n,M,unspecified,41.0,41.0,M
+1333,1960.0,usa,Aug,n,M,lemon_shark,15.0,15.0,M
+1334,1960.0,usa,Jul,n,M,unspecified,41.0,41.0,M
+1335,1960.0,usa,Jun,n,M,unspecified,39.0,39.0,M
+1336,1960.0,bermuda,May,n,M,unspecified,25.0,25.0,M
+1337,1960.0,usa,May,n,F,white_shark,16.0,16.0,F
+1338,1960.0,south africa,Apr,n,M,white_shark,16.0,16.0,M
+1339,1960.0,usa,Apr,n,M,white_shark,48.0,48.0,M
+1340,1960.0,bermuda,Apr,unknow,M,unspecified,21.0,21.0,M
+1341,1960.0,australia,Apr,n,M,white_shark,17.0,17.0,M
+1342,1960.0,usa,Mar,n,M,unspecified,42.0,42.0,M
+1343,1960.0,australia,Feb,n,M,unspecified,30.0,30.0,M
+1344,1960.0,usa,Feb,unknow,M,unspecified,36.0,36.0,M
+1345,1960.0,australia,Jan,y,M,bull_shark,13.0,13.0,M
+1346,1959.0,australia,Nov,n,M,unspecified,19.0,19.0,M
+1347,1959.0,australia,Nov,n,M,unspecified,17.0,17.0,M
+1348,1959.0,australia,Nov,n,M,unspecified,19.0,19.0,M
+1349,1959.0,usa,Nov,n,M,unspecified,21.0,21.0,M
+1350,1959.0,usa,Oct,n,M,white_shark,30.0,30.0,M
+1351,1959.0,fiji,Oct,n,M,tiger_shark,36.0,36.0,M
+1352,1959.0,usa,Sep,n,M,unspecified,30.0,30.0,M
+1353,1959.0,philippines,Aug,unknow,M,unspecified,10.0,10.0,M
+1354,1959.0,japan,Aug,y,M,unspecified,13.0,13.0,M
+1355,1959.0,usa,Jul,n,M,unspecified,25.0,25.0,M
+1356,1959.0,usa,Jun,y,M,white_shark,33.0,33.0,M
+1357,1959.0,usa,May,y,M,white_shark,18.0,18.0,M
+1358,1959.0,usa,May,n,M,tiger_shark,19.0,19.0,M
+1359,1959.0,south africa,Feb,n,M,unspecified,14.0,14.0,M
+1360,1959.0,australia,Jan,n,M,grey_shark,20.0,20.0,M
+1361,1959.0,australia,Jan,y,M,unspecified,22.0,22.0,M
+1362,1959.0,australia,Jan,n,M,unspecified,17.0,17.0,M
+1363,1959.0,south africa,Jan,n,M,white_shark,18.0,18.0,M
+1364,1958.0,usa,Dec,y,M,tiger_shark,15.0,15.0,M
+1365,1958.0,american samoa,Dec,y,M,tiger_shark,22.0,22.0,M
+1366,1958.0,australia,Nov,y,M,unspecified,21.0,21.0,M
+1367,1958.0,bahamas,Sep,n,M,unspecified,42.0,42.0,M
+1368,1958.0,usa,Jul,n,M,tiger_shark,12.0,12.0,M
+1369,1958.0,usa,Jul,n,M,tiger_shark,8.0,8.0,M
+1370,1958.0,pacific ocean,Jul,n,M,unspecified,31.0,31.0,M
+1371,1958.0,usa,Jul,n,M,unspecified,20.0,20.0,M
+1372,1958.0,bahamas,Jul,n,M,tiger_shark,36.0,36.0,M
+1373,1958.0,usa,Jun,n,M,unspecified,59.0,59.0,M
+1374,1958.0,usa,Jun,n,M,tiger_shark,17.0,17.0,M
+1375,1958.0,taiwan,Apr,n,M,unspecified,29.0,29.0,M
+1376,1958.0,south africa,Apr,y,F,unspecified,28.0,28.0,F
+1377,1958.0,south africa,Apr,y,M,unspecified,29.0,29.0,M
+1378,1958.0,australia,Jan,n,M,unspecified,14.0,14.0,M
+1379,1957.0,south africa,Dec,n,F,unspecified,14.0,14.0,F
+1380,1957.0,south africa,Dec,y,M,unspecified,23.0,23.0,M
+1381,1957.0,usa,Jul,y,M,white_shark,57.0,57.0,M
+1382,1957.0,australia,May,n,M,unspecified,28.0,28.0,M
+1383,1957.0,usa,Apr,y,M,white_shark,25.0,25.0,M
+1384,1957.0,usa,Apr,n,M,unspecified,17.0,17.0,M
+1385,1957.0,australia,Apr,n,M,unspecified,22.0,22.0,M
+1386,1956.0,papua new guinea,Dec,y,M,tiger_shark,19.0,19.0,M
+1387,1956.0,senegal,Oct,n,M,lemon_shark,19.0,19.0,M
+1388,1956.0,usa,Aug,n,M,white_shark,10.0,10.0,M
+1389,1956.0,australia,Mar,y,M,unspecified,26.0,26.0,M
+1390,1956.0,australia,Feb,y,M,unspecified,15.0,15.0,M
+1391,1955.0,papua new guinea,Nov,n,M,unspecified,8.0,8.0,M
+1392,1955.0,american samoa,Aug,y,M,unspecified,28.0,28.0,M
+1393,1955.0,usa,Feb,n,M,white_shark,19.0,19.0,M
+1394,1955.0,australia,Feb,y,M,white_shark,25.0,25.0,M
+1395,1955.0,australia,Jan,y,M,unspecified,13.0,13.0,M
+1396,1954.0,australia,Jun,n,M,unspecified,30.0,30.0,M
+1397,1954.0,argentina,Jan,n,M,white_shark,18.0,18.0,M
+1398,1954.0,papua new guinea,Jan,n,M,unspecified,26.0,26.0,M
+1399,1953.0,mexico,Aug,unknow,M,unspecified,19.0,19.0,M
+1400,1953.0,usa,Jul,y,M,unspecified,15.0,15.0,M
+1401,1953.0,australia,Feb,n,M,unspecified,25.0,25.0,M
+1402,1952.0,australia,Dec,n,M,unspecified,25.0,25.0,M
+1403,1952.0,usa,Dec,y,M,white_shark,17.0,17.0,M
+1404,1951.0,australia,Dec,y,M,unspecified,21.0,21.0,M
+1405,1951.0,south africa,Nov,n,M,white_shark,23.0,23.0,M
+1406,1951.0,south africa,Nov,n,M,white_shark,24.0,24.0,M
+1407,1951.0,australia,Mar,n,M,unspecified,23.0,23.0,M
+1408,1951.0,south africa,Feb,n,M,unspecified,31.0,31.0,M
+1409,1950.0,australia,Nov,n,M,white_shark,21.0,21.0,M
+1410,1950.0,usa,Oct,n,M,white_shark,31.0,31.0,M
+1411,1950.0,australia,Oct,n,M,unspecified,25.0,25.0,M
+1412,1950.0,el salvador,Aug,n,M,unspecified,27.0,27.0,M
+1413,1950.0,south africa,Feb,y,M,white_shark,14.0,14.0,M
+1414,1950.0,indonesia,Summer,y,M,tiger_shark,7.0,7.0,M
+1415,1949.0,australia,Nov,n,M,unspecified,36.0,36.0,M
+1416,1949.0,australia,Apr,y,M,unspecified,13.0,13.0,M
+1417,1949.0,australia,Jan,y,M,white_shark,20.0,20.0,M
+1418,1949.0,australia,Jan,unknow,M,unspecified,32.0,32.0,M
+1419,1948.0,greece,Sep,y,M,unspecified,17.0,17.0,M
+1420,1948.0,usa,Summer,n,M,unspecified,48.0,48.0,M
+1421,1947.0,australia,Dec,n,M,grey_shark,9.0,9.0,M
+1422,1947.0,usa,Aug,y,M,unspecified,20.0,20.0,M
+1423,1947.0,south africa,Apr,n,M,unspecified,21.0,21.0,M
+1424,1947.0,south africa,Mar,n,M,unspecified,22.0,22.0,M
+1425,1947.0,south africa,Jan,n,M,unspecified,18.0,18.0,M
+1426,1946.0,australia,Aug,y,M,unspecified,30.0,30.0,M
+1427,1946.0,australia,Feb,n,M,white_shark,18.0,18.0,M
+1428,1946.0,south africa,Jan,n,M,unspecified,18.0,18.0,M
+1429,1945.0,south africa,Mar,n,M,unspecified,37.0,37.0,M
+1430,1945.0,iraq,,n,M,bull_shark,15.0,15.0,M
+1431,1944.0,south africa,Jul,y,M,white_shark,17.0,17.0,M
+1432,1943.0,panama,Sep,y,M,white_shark,20.0,20.0,M
+1433,1943.0,mexico,Jul,unknow,M,unspecified,27.9,27.9,M
+1434,1942.0,australia,Dec,y,F,bull_shark,15.0,15.0,F
+1435,1942.0,south africa,Nov,y,M,white_shark,18.0,18.0,M
+1436,1942.0,australia,Sep,n,M,tiger_shark,24.0,24.0,M
+1437,1942.0,australia,Jan,y,F,bull_shark,28.0,28.0,F
+1438,1942.0,bahamas,,n,M,unspecified,48.0,48.0,M
+1439,1941.0,usa,Jun,n,M,unspecified,43.0,43.0,M
+1440,1941.0,usa,Mar,n,M,unspecified,53.0,53.0,M
+1441,1940.0,south africa,Mar,y,M,white_shark,25.0,25.0,M
+1442,1940.0,south africa,Feb,y,M,white_shark,17.0,17.0,M
+1443,1940.0,australia,Jan,y,M,unspecified,13.0,13.0,M
+1444,1940.0,south africa,Jan,y,M,unspecified,18.0,18.0,M
+1445,1939.0,australia,Dec,y,M,unspecified,20.0,20.0,M
+1446,1939.0,bahamas,Jul,n,M,unspecified,38.0,38.0,M
+1447,1938.0,australia,Oct,n,M,tiger_shark,18.0,18.0,M
+1448,1938.0,iraq,May,n,M,bull_shark,9.0,9.0,M
+1449,1938.0,australia,Jan,unknow,M,unspecified,24.0,24.0,M
+1450,1937.0,australia,Oct,y,M,tiger_shark,25.0,25.0,M
+1451,1937.0,australia,Oct,y,M,tiger_shark,18.0,18.0,M
+1452,1937.0,australia,Aug,n,M,tiger_shark,38.0,38.0,M
+1453,1937.0,australia,May,y,M,unspecified,33.0,33.0,M
+1454,1937.0,australia,Feb,y,M,white_shark,32.0,32.0,M
+1455,1936.0,usa,Jul,y,M,white_shark,16.0,16.0,M
+1456,1936.0,australia,Apr,n,M,tiger_shark,16.0,16.0,M
+1457,1936.0,australia,Feb,y,M,white_shark,14.0,14.0,M
+1458,1936.0,australia,Jan,y,M,white_shark,13.0,13.0,M
+1459,1935.0,australia,Aug,y,M,unspecified,38.0,38.0,M
+1460,1935.0,australia,Mar,y,M,white_shark,27.0,27.0,M
+1461,1935.0,australia,Mar,y,M,white_shark,22.0,22.0,M
+1462,1934.0,australia,Dec,n,F,tiger_shark,13.0,13.0,F
+1463,1934.0,australia,Apr,y,M,unspecified,15.0,15.0,M
+1464,1934.0,australia,Mar,y,M,unspecified,17.0,17.0,M
+1465,1934.0,australia,Jan,n,M,unspecified,22.0,22.0,M
+1466,1932.0,australia,Oct,n,M,grey_shark,24.0,24.0,M
+1467,1932.0,south africa,,n,M,unspecified,23.0,23.0,M
+1468,1931.0,australia,Feb,unknow,M,unspecified,39.0,39.0,M
+1469,1931.0,australia,Jan,n,M,unspecified,18.0,18.0,M
+1470,1930.0,australia,Feb,y,M,white_shark,18.0,18.0,M
+1471,1930.0,south africa,Jan,n,M,white_shark,23.0,23.0,M
+1472,1929.0,australia,Apr,n,M,grey_shark,19.0,19.0,M
+1473,1929.0,australia,Feb,y,M,unspecified,39.0,39.0,M
+1474,1929.0,australia,Jan,y,M,unspecified,14.0,14.0,M
+1475,1928.0,panama,Nov,y,M,unspecified,17.0,17.0,M
+1476,1928.0,australia,Apr,n,M,unspecified,15.0,15.0,M
+1477,1928.0,south africa,Jan,n,M,unspecified,18.0,18.0,M
+1478,1927.0,south africa,Dec,y,M,white_shark,17.0,17.0,M
+1479,1927.0,australia,Mar,n,M,grey_shark,17.0,17.0,M
+1480,1927.0,australia,Jan,y,M,unspecified,15.0,15.0,M
+1481,1926.0,australia,Oct,n,M,grey_shark,17.0,17.0,M
+1482,1926.0,italy,Jul,y,M,white_shark,20.0,20.0,M
+1483,1926.0,usa,Jul,n,M,white_shark,15.0,15.0,M
+1484,1925.0,australia,Nov,y,M,tiger_shark,55.0,55.0,M
+1485,1925.0,australia,MarMar,n,M,unspecified,16.0,16.0,M
+1486,1924.0,australia,Jan,y,M,unspecified,16.0,16.0,M
+1487,1922.0,australia,Dec,y,M,unspecified,19.0,19.0,M
+1488,1922.0,jamaica,May,y,M,unspecified,19.0,19.0,M
+1489,1922.0,south africa,May,n,M,white_shark,18.0,18.0,M
+1490,1922.0,australia,Mar,y,M,white_shark,21.0,21.0,M
+1491,1922.0,australia,Feb,y,M,white_shark,18.0,18.0,M
+1492,1919.0,australia,Jan,y,M,unspecified,13.0,13.0,M
+1493,1916.0,usa,Jul,y,M,white_shark,24.0,24.0,M
+1494,1912.0,australia,Jan,y,M,unspecified,21.0,21.0,M
+1495,1906.0,south africa,Jan,y,M,unspecified,30.0,30.0,M
+1496,1905.0,australia,Mar,n,M,unspecified,40.0,40.0,M
+1497,1901.0,south africa,Jul,y,M,white_shark,29.0,29.0,M
+1498,1990.4,australia,Nov,n,M,unspecified,19.0,19.0,M
+1499,1990.4,australia,Mar,n,M,unspecified,21.0,21.0,M
+1500,1990.4,australia,Nov,y,M,bull_shark,12.0,12.0,M
+1501,1990.4,india,May,y,M,unspecified,35.0,35.0,M
+1502,1990.4,seychelles,,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1503,1990.4,unknow,ReportedMay,y,,unspecified,27.93883751651255,27.93883751651255,M
+1504,1990.4,england,Sep,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1505,1990.4,australia,,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1506,1990.4,australia,May,n,,unspecified,27.93883751651255,27.93883751651255,M
+1507,1990.4,unknow,Jul,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1508,1990.4,barbados,ReportedAug,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1509,1990.4,england,ReportedSep,y,M,tiger_shark,27.93883751651255,27.93883751651255,M
+1510,1990.4,jamaica,Dec,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1511,1990.4,martinique,Mar,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1512,1990.4,usa,Aug,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1513,1990.4,usa,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1514,1990.4,guinea,Reported,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1515,1990.4,greenland,,y,,white_shark,27.93883751651255,27.93883751651255,M
+1516,1990.4,usa,ReportedJul,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1517,1990.4,france,,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1518,1990.4,spain,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1519,1990.4,mediterranean sea,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1520,1990.4,jamaica,ReportedOct,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1521,1990.4,usa,Jul,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1522,1990.4,cuba,,n,M,unspecified,14.0,14.0,M
+1523,1990.4,sweden,,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1524,1990.4,panama,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1525,1990.4,unknow,Dec,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1526,1990.4,italy,ReportedApr,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1527,1990.4,iceland,,unknow,,unspecified,27.93883751651255,27.93883751651255,M
+1528,1990.4,roatan,,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1529,1990.4,italy,June,y,M,white_shark,27.93883751651255,27.93883751651255,M
+1530,1990.4,barbados,Mar,n,M,unspecified,19.0,19.0,M
+1531,1990.4,france,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1532,1990.4,france,,n,M,white_shark,27.93883751651255,27.93883751651255,M
+1533,1990.4,barbados,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1534,1990.4,guinea,LateReported,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1535,1990.4,unknow,Reported,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1536,1990.4,india,Reported,unknow,,unspecified,27.93883751651255,27.93883751651255,M
+1537,1990.4,india,Reported,unknow,,unspecified,27.93883751651255,27.93883751651255,M
+1538,1990.4,usa,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1539,1990.4,india,,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1540,1990.4,between portugal & india,LetterJan,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1541,1990.4,unknow,,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1542,1990.4,france,Ca,unknow,M,white_shark,27.93883751651255,27.93883751651255,M
+1543,1990.4,venezuela,Ca,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1544,1990.4,mexico,Circa,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1545,1990.4,unknow,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1546,1990.4,australia,Ca,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1547,1990.4,unknow,Ca,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1548,1990.4,greece,Ca,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1549,1990.4,greece,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1550,1990.4,italy,Ca,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1551,1990.4,canada,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1552,1990.4,kenya,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1553,1990.4,kenya,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1554,1990.4,panama,BeforeOct,y,M,unspecified,20.0,20.0,M
+1555,1990.4,uruguay,Before,n,,unspecified,27.93883751651255,27.93883751651255,M
+1556,1990.4,uruguay,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1557,1990.4,usa,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1558,1990.4,papua new guinea,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1559,1990.4,australia,,n,F,unspecified,15.0,15.0,F
+1560,1990.4,australia,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1561,1990.4,usa,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1562,1990.4,bermuda,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1563,1990.4,greece,Between,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1564,1990.4,usa,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1565,1990.4,india,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1566,1990.4,lebanon,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1567,1990.4,spain,Before,n,,unspecified,27.93883751651255,27.93883751651255,M
+1568,1990.4,sudan,Before,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1569,1990.4,unknow,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1570,1990.4,usa,Before,n,F,unspecified,21.0,21.0,F
+1571,1990.4,usa,Beforer,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1572,1990.4,djibouti,Before,y,,unspecified,27.93883751651255,27.93883751651255,M
+1573,1990.4,libya,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1574,1990.4,australia,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1575,1990.4,new zealand,BeforeJun,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1576,1990.4,unknow,Before,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1577,1990.4,vietnam,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1578,1990.4,sri lanka,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1579,1990.4,venezuela,No,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1580,1990.4,usa,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1581,1990.4,greece,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1582,1990.4,mozambique,Before,n,,unspecified,27.93883751651255,27.93883751651255,M
+1583,1990.4,south africa,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1584,1990.4,australia,,n,M,tiger_shark,27.93883751651255,27.93883751651255,M
+1585,1990.4,bahrein,NoBefore,y,M,tiger_shark,27.93883751651255,27.93883751651255,M
+1586,1990.4,bahamas,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1587,1990.4,usa,No,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1588,1990.4,reunion,No,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1589,1990.4,solomon islands,BeforeFeb,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1590,1990.4,korea,NoBeforeMay,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1591,1990.4,french polynesia,NoBeforeMar,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1592,1990.4,sudan,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1593,1990.4,vanuatu,NoBeforeAug,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1594,1990.4,vanuatu,NoBeforeAug,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1595,1990.4,iran,NoBefore,n,M,bull_shark,27.93883751651255,27.93883751651255,M
+1596,1990.4,usa,NoBefore,n,M,unspecified,19.0,19.0,M
+1597,1990.4,papua new guinea,NoBefore,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1598,1990.4,red sea?,NoBefore,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1599,1990.4,south africa,NoBeforeJan,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1600,1990.4,usa,NoBefore,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1601,1990.4,greece,NoBeforeMay,y,F,unspecified,27.93883751651255,27.93883751651255,F
+1602,1990.4,usa,NoBefore,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1603,1990.4,usa,NoBefore,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1604,1990.4,mediterranean sea,NoBefore,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1605,1990.4,australia,NoBefore,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1606,1990.4,australia,NoAfterAugust,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1607,1990.4,singapore,NoBefore,n,,unspecified,27.93883751651255,27.93883751651255,M
+1608,1990.4,fiji,Before,n,M,unspecified,27.0,27.0,M
+1609,1990.4,mozambique,Before,n,M,unspecified,36.0,36.0,M
+1610,1990.4,seychelles,Before,y,M,tiger_shark,27.93883751651255,27.93883751651255,M
+1611,1990.4,iraq,,n,M,unspecified,25.0,25.0,M
+1612,1990.4,iraq,,n,M,bull_shark,6.0,6.0,M
+1613,1990.4,iraq,,n,M,bull_shark,16.0,16.0,M
+1614,1990.4,bahamas,Before,n,M,white_shark,27.93883751651255,27.93883751651255,M
+1615,1990.4,usa,BeforeJun,n,F,white_shark,27.93883751651255,27.93883751651255,F
+1616,1990.4,bermuda,BeforeApr,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1617,1990.4,fiji,Before,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1618,1990.4,madagascar,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1619,1990.4,usa,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1620,1990.4,bahamas,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1621,1990.4,indonesia,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1622,1990.4,india,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1623,1990.4,nicaragua,Before,y,M,bull_shark,27.93883751651255,27.93883751651255,M
+1624,1990.4,cuba,Before,y,M,unspecified,50.0,50.0,M
+1625,1990.4,marshall islands,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1626,1990.4,kiribati,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1627,1990.4,north pacific ocean,BeforeMar,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1628,1990.4,kiribati,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1629,1990.4,unknow,,y,,unspecified,27.93883751651255,27.93883751651255,M
+1630,1990.4,solomon islands,During,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1631,1990.4,australia,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1632,1990.4,iran,Said,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1633,1990.4,iran,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1634,1990.4,iraq,,y,M,bull_shark,13.0,13.0,M
+1635,1990.4,saudi arabia,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1636,1990.4,saudi arabia,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1637,1990.4,saudi arabia,,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1638,1990.4,pacific ocean,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1639,1990.4,burma,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1640,1990.4,papua new guinea,WorldWarII,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1641,1990.4,burma,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1642,1990.4,italy,,n,M,white_shark,27.93883751651255,27.93883751651255,M
+1643,1990.4,greece,No,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1644,1990.4,belize,Early,y,M,tiger_shark,16.0,16.0,M
+1645,1990.4,australia,Before,unknow,M,unspecified,27.93883751651255,27.93883751651255,M
+1646,1990.4,reunion,Between,y,,unspecified,27.93883751651255,27.93883751651255,M
+1647,1990.4,south africa,No,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1648,1990.4,australia,No,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1649,1990.4,south africa,No,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1650,1990.4,australia,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1651,1990.4,usa,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1652,1990.4,south africa,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1653,1990.4,fiji,Before,y,,unspecified,27.93883751651255,27.93883751651255,M
+1654,1990.4,usa,BeforeJul,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1655,1990.4,south africa,NoJul,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1656,1990.4,south africa,BeforeJul,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1657,1990.4,asia?,Before,n,M,unspecified,27.93883751651255,27.93883751651255,M
+1658,1990.4,usa,Circa,n,F,unspecified,27.93883751651255,27.93883751651255,F
+1659,1990.4,australia,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1660,1990.4,australia,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1661,1990.4,australia,Before,y,M,grey_shark,27.93883751651255,27.93883751651255,M
+1662,1990.4,australia,Before,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1663,1990.4,usa,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1664,1990.4,panama,,y,M,unspecified,27.93883751651255,27.93883751651255,M
+1665,1990.4,ceylon (sri lanka),,y,M,unspecified,15.0,15.0,M
