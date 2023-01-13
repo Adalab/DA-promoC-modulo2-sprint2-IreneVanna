@@ -1,5 +1,3 @@
-from IPython.core.interactiveshell import InteractiveShell 
-InteractiveShell.ast_node_interactivity = "all"
 
 import requests
 import pandas as pd
@@ -8,6 +6,16 @@ import numpy as np
 import mysql.connector
 
 pd.options.display.max_columns = None
+
+def sacar_df():
+    
+    nuestro_df = input(f'¿Podrías proporcionarme la ruta de tu csv?')
+
+    df_ataque = pd.read_csv(nuestro_df, index_col = 0)
+    
+    return df_ataque
+
+
 
 class crear_insertar:
 
@@ -59,8 +67,3 @@ class crear_insertar:
 
             #df_clima = pd.read_csv('datos/datos_clima.csv', index_col = 0)
 
-def printear():
-    
-    df_ataque = pd.read_csv('DA-promoC-modulo2-sprint2-IreneVanna/datos/datos_limpiezaV.csv', index_col = 0)
-    
-    print(df_ataque.head(2))
