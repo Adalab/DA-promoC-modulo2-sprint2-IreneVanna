@@ -16,32 +16,37 @@ Irene Powers y Vanna Lozito
     Existe una gran diferencia respecto a las mujeres.
     Este patrón se repite en casi todos los paises menos que en Reunion, Brazil, Italy donde hay 
     muy pocos ataques y es menos perceptible.
-    Creemos que afecta los roles de género, los hombres tienden a exponerse a más situaciones de riesgo que las mujeres.    
+    Creemos que afecta los roles de género, los hombres tienden a exponerse a más situaciones 
+    de riesgo que las mujeres.    
     
     ¿Cuáles son las edades que más sufren ataques?
-    La mayoria de los ataques se producen contra personas cuyas edades están comprendidas entre los 18 y los 33 años.
+    La mayoria de los ataques se producen contra personas cuyas edades están comprendidas 
+    entre los 18 y los 33 años.
 
     Independientemente de la edad, ¿sufren los hombres más ataques que las mujeres?
     En general los hombre sufren más ataques que las mujeres.
 
     ¿En qué mes ocurren más ataques?
     Hay un pico de ataques durante los meses veraniegos, alcanzando su máximo en agosto. 
-    Esto se debe principalmente a la mayor presencia de personas en las zonas costeras por las vacaciones estacionales.
+    Esto se debe principalmente a la mayor presencia de personas en las zonas costeras 
+    por las vacaciones estacionales.
     
     ¿Cuál es la relación entre la especie y el tipo de ataque (si es fatal o no)?
-    No existe relación, puesto que aunque las gráficas nos muestran que los ataques de tiburon blanco son los más letales, 
-    también comprobamos que los ataques de tiburónn blanco son los más comunes con bastante diferencia 
-    (más del doble que el segundo de la lista, el tiburón tigre).
-    El tiburón blanco es por tanto el que más ataca, pero no significa que sus ataques sean destaquen por fatales.  
+    No existe relación, puesto que aunque las gráficas nos muestran que los ataques de tiburon blanco 
+    son los más letales, también comprobamos que los ataques de tiburónn blanco son los más comunes 
+    con bastante diferencia (más del doble que el segundo de la lista, el tiburón tigre).
+    El tiburón blanco es por tanto el que más ataca, 
+    pero no significa que sus ataques sean destaquen por fatales.  
    
     El resto de especies guardan relaciones también de proproción. 
     Eso sí, el grey shark y el lemon shark parecen especialmente no letales.
 
     ¿Cómo han evolucionado los ataques a lo largo del tiempo?
     Los ataques han aumentado a lo largo de las dos últimas décadas. 
-    Esto aumento se puede deber a el incremento del turismo costero, la popularización de las actividades acuáticas y 
-    un paulatino aumento de las temperaturas que influye en el perímetro territorial del tiburón y en el alargamiento 
-    de la época de  baño. En 2015, por ejemplo, el aumento de temperaturas tuvo lugar por el fenómeno meteorológico El Niño 
+    Esto aumento se puede deber a el incremento del turismo costero, 
+    la popularización de las actividades acuáticas y un paulatino aumento de las temperaturas que 
+    influye en el perímetro territorial del tiburón y en el alargamiento de la época de  baño. 
+    En 2015, por ejemplo, el aumento de temperaturas tuvo lugar por el fenómeno meteorológico El Niño 
     e  hizo que esta especie  batiera su record en número de ataques.
 
 
