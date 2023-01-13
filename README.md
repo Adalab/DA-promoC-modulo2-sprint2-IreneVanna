@@ -1,6 +1,6 @@
 # DA-promoC-modulo2-sprint2-IreneVanna
 
-Tercero Sprint del Bootcamp de Adalab, Analistas de Datos:
+Tercer Sprint del Bootcamp de Adalab, Analistas de Datos:
 
 Desde el 2 de Enero hasta el 12 de Enero 2023
 Irene Powers y Vanna Lozito
@@ -9,7 +9,7 @@ Irene Powers y Vanna Lozito
     Las hipótesis que os planteamos son:
     
     ¿Es Australia el sitio más peligroso y letal para estar relajada en la playa?
-    Australia es el segundo pais más peligroso, el primer pais por numero de ataque es Estados Unidos.
+    Australia es el segundo pais más peligroso, el primer país por numero de ataque es Estados Unidos.
     
     ¿Hay diferencias entre los países en los ataques a hombres y mujeres?
     Los hombres son las principales víctimas de ataques de tiburones. Existe una gran diferencia respecto a las mujeres.
