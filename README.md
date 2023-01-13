@@ -12,7 +12,8 @@ Irene Powers y Vanna Lozito
     Australia es el segundo pais más peligroso, el primer país por numero de ataque es Estados Unidos.
     
     ¿Hay diferencias entre los países en los ataques a hombres y mujeres?
-    Los hombres son las principales víctimas de ataques de tiburones. Existe una gran diferencia respecto a las mujeres.
+    Los hombres son las principales víctimas de ataques de tiburones. 
+    Existe una gran diferencia respecto a las mujeres.
     Este patrón se repite en casi todos los paises menos que en Reunion, Brazil, Italy donde hay 
     muy pocos ataques y es menos perceptible.
     Creemos que afecta los roles de género, los hombres tienden a exponerse a más situaciones de riesgo que las mujeres.    
